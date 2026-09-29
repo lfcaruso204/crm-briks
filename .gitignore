@@ -1,0 +1,12 @@
+# Ambiente virtual e cache Python
+CRM_App/venv/
+**/__pycache__/
+*.pyc
+
+# Arquivos temporários do Office (ficam travados quando o arquivo está aberto)
+~$*.xlsx
+~$*.docx
+~WRL*.tmp
+
+# Segredos do Streamlit — nunca versionar
+.streamlit/secrets.toml
