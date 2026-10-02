@@ -11,10 +11,10 @@ from pathlib import Path
 BASE_DIR = Path(__file__).resolve().parent
 IMAGES_DIR = (BASE_DIR.parent / "imagens_unidas").resolve()
 
-EXCEL_PATH = IMAGES_DIR / "allcards.xlsx"
-EXCEL_SHEET = "ALL"
+EXCEL_PATH = IMAGES_DIR / "export_updated_database.xlsx"
+EXCEL_SHEET = "export_updated_database"
 
-DB_PATH = BASE_DIR / "crm.db"
+DB_PATH = Path(__file__).parent / "crm_upd2.db"
 LOGO_PATH = IMAGES_DIR / "brikslogo1.png"
 
 TABLE_NAME = "clientes"
