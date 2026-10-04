@@ -1,0 +1,616 @@
+﻿id;pasta;nome;cargo;empresa;telefone;email;website;pais;produtos
+1;America do Sul;Diego Galvez Martín;General Manager;Agritrade;(+51)(1) 239 8711 | (+51) 992 527 070;dgalvez@agritradeperu.com;www.agritradeperu.com;Peru;Cacaos Nuts Peru
+2;America do Sul;Jorge Fernández G.;Gerente General / General Manager;Agro Fergi;(+51) 997 564 425;jfernando@agrofergi.com.pe;www.agrofergi.com.pe;Perú;
+3;America do Sul;Emilio Jose Farah;Gerente General;AgroFino;+511 264 1856 | +51 999 682 721 | RPM: #999682721;ejfarah@agrofino.com.pe;www.agrofino.com.pe;;
+4;America do Sul;Marisol Churata Serrano;Gerente Comercial;Agroliva;956 561 600;ventas@agroliva.com.pe;www.agroliva.com.pe;Peru;Azeitonas
+5;America do Sul;Fernando Ramos;Manager / Export Dairy Board APYMEL;APYMEL (SME Dairy Association);(011) 15 5563 2716 | +54 9 11 5563 2716;exportacion@apymel.com.ar;;Argentina;Queijos & Laticínios
+6;America do Sul;Silvina Santi;Export Manager;Bodega RFM;+54 (261) 4910459 - (261) 4912458 | +54 9 261 5454993;comex@bodegarfm.com.ar;www.bodegarfm.com.ar;Argentina;
+7;America do Sul;Matías Haeussler;Gerente General / Managing Director;CALBU SpA;+56 (2) 22417799 | +56 (9) 94508687;mhaeussler@calbu.cl;;Chile;
+8;America do Sul;Martín Ovando;;Cassini y Cesaratto (LaQuesera);+54-3404-421891 / 421299 / 421829 | 03404-15512910;martinovando@cyc.com.ar;www.cassiniycesaratto.com.ar;Argentina;Queijos & Laticínios
+9;America do Sul;Jorge Gregorio Lifschitz;;Datum (Innovalia S.A.);Tel. 54 11 4652-4428 // 54 11 4855-2483 | Cel. 54 9 11 6569-3552 // Cel. Brasil 11 9 4969-9854;;;Argentina;
+10;America do Sul;Cristóbal Domínguez;Gerente de Ventas / Sales Director;DITZLER Chile Ltda.;Directo/Main: +56 2 2598 2096 | Móvil/Mobile: +56 9 7107 1438 | Tel.: +56 2 2598 2000;cristobal.dominguez@ditzler.cl;www.ditzlerchile.com;Chile;
+11;America do Sul;Ricardo de León Rivera;International Business Manager;Excard (Rivexport & Spicex);(502) 3484-4593 | Tel. (502) 6632-6749/77 - Fax: (502) 6632-6775;ricardo@excardsa.com;www.excardsa.com;Guatemala;Especiarias
+12;America do Sul;Matias Varas;Founder & CEO;Global South Trade;+54 9 261 4 68 7312;info@globalsouthtrade.com;www.globalsouthtrade.com;Argentina;Dried Fruits & Nuts
+13;America do Sul;Cristián Gana A.;CEO;Goodvalley (Deshidratados - Colchagua, Chile);Movil: 56-97-212 3702 | Work: 56-2-5825705;cristian.gana@goodvalley.cl;www.goodvalley.cl;Chile;Desidratados
+14;America do Sul;Rodrigo Lecaros Monge;Gerente Comercial / Sales & Market Manager;Goodvalley (Deshidratados - Colchagua, Chile);Fono/Phone: (56-2)-2582 5705 | Móvil/Mobile: (56-9)-92665141 | Skype: goodvalley.driedfruits;rodrigo.lecaros@goodvalley.cl;www.goodvalley.cl;Chile;Desidratados
+15;America do Sul;Gorordo Roberto Carlos;Presidente / CEO;El Campo S.A.;Cel/Movil: +549 2302 412621 | Tel/Phone: +54 2335 472102 | 231 | 240;roberto.gorordo@gmail.com;;Argentina;Cereales - Oleaginosas, Subproductos, Girasol Confitero, Transporte Internacional
+16;America do Sul;Lic. Andrea Gómez Millán;Gerente comercial / Commercial Manager;Granos de Sinaloa, S.A. de C.V.;+(52) 1 33 1417 3686 | Tel. +(52) 667 760 2480;andrea.gomez@granos.com.mx | granos@granos.com.mx;www.granos.com.mx;México;Grãos
+17;America do Sul;Daniel Saint-Pere Caprile;;Imexfutura (Incatrail);Of: +51(1) 7193969 | Skype: imexfutura;danielsaintpere@imexfutura.com;www.imexfutura.com;Peru;Graos, Funghi, Quinoa
+18;America do Sul;Umberto Colantuoni;Director;Italimentos;+56 9 7977 6263 | +39.366.1191518;ucolantuoni@italimentos.com;www.italimentos.com;;
+19;America do Sul;Ing. Hernán Pérez;Business General Manager - Industrial Division;La Cristina Lácteos;Tel.: 54 11 /4837-8000 / Fax: (54-11) 4837-8011 | Tel-Fax: (54 353) 454-8043 al 46;hperez@lcsuero.com;www.lcsuero.com;Argentina;Queijos & Laticínios
+20;America do Sul;Yanina Bosio;Foreign Trade Manager;LACTEAR S.A.;Cellphone (+54 9) 3562 506562 | Skype ID: Yanis.Bosio;comex@lactear.com.ar;www.lactear.com.ar;Argentina;Queijos & Laticínios
+21;America do Sul;José Miguel Medina;Commercial Director;La Nogalera Group;+52 656 843 3052 Ext. 204 | +1 (214) 764-6801 | +1 (678) 520 6849;;www.lanogalera.com;México;Dried Fruits & Nuts
+22;America do Sul;Alfonso Merino;;Mahuida Group (Mahuida Nuts);(+56 9) 4026 3906;a.merino@mahuidagroup.com;www.mahuidagroup.com;;Dried Fruits & Nuts
+23;America do Sul;Antonio Aguirre;CEO;Maipofoods (Procesadora Rengo);Tel. +56 2 2259 0111 | Cel. +56 9 9599 3220;antonio@maipofoods.com;www.maipofoods.com | www.prorengo.cl;;
+24;America do Sul;Fernando Torres Parraud;;Mayan Vanilla;+52 9991 80 27 97;sales@mayanvanilla.com;www.mayanvanilla.com;México;Vanilla | Baunilha
+25;America do Sul;Silvina Santi;Coordinator - Export Manager;Mendoza Tasting (Sabores de Argentina);+54 9 261 5454993 | Skype: silvina.santi;silvinansanti@gmail.com;www.mendozatasting.com.ar;Argentina;
+26;America do Sul;Walter G. Colazo;Dpto. Comercio Exterior / Foreign Trade Dept.;Noal S.A. (Excelencia Láctea);movil. +54 9 353 4240929 | Tel: 0054-353-4531901 - Fax: 0054-353-4533525;export@noal.com;www.noal.com;Argentina;Queijos & Laticínios
+27;America do Sul;Juan Eduardo Aguirre Saúd;Gerente Comercial y logística;Olivares de Quepu;Tel: (56 71) 2534640 | Mobile: (56 9) 66075843;jaguirre@quepu.cl;www.quepu.cl;Chile;Azeitonas, Azeite de Oliva
+28;America do Sul;L.A. Juan Antonio Martín López;Asesor Comercial;Omegachia (Grupo ASI);Tels. (+52) 378 1040 685 / (+52) 378 1301 684;omegachia@yahoo.com;www.grupoasi.mx;México;Chía
+29;America do Sul;María José Roca;Jefe de Comercio Exterior;Paladini;Cel.: +54 9 0341 156 405651 | +54 0341 492 1801 | +54 0341 492 2450;maria.roca@paladini.com | info@paladini.com;www.paladini.com;Argentina;
+30;America do Sul;Santiago Aguirre;Commercial Manager;Pampa Cheese Argentina;Tel. +5411 4833-5513 / 4832-4092 | Cel. +54911 15-4049-2243 | Skype: santi.aguirre;saguirre@pampacheese.com;www.pampacheese.com;Argentina;Queijos & Laticínios
+31;America do Sul;Lucio Platero Yapuchura;President/CEO;Plater's Food S.A.C. (Import and Distribution);Telf.: (511) 324-5419 Fax: (511) 473-1585 | Móvil: 947-354-781;grupoplaters@grupoplaters.com;www.platersfood.com;Peru;Graos, Funghi, Quinoa
+32;America do Sul;Molly Hime;Senior Vice President, Director - Community Association Products & Services;Popular Association Banking (A division of Popular Bank);O: (786) 953-1268 | C: (305) 987-8719 | T: (800) 233-7164;MHime@popular.com;;;
+33;America do Sul;Rebecca R. Prieto;Senior Vice President, South Florida Team Leader - Community Association Products & Services;Popular Association Banking (A division of Popular Bank);O: (786) 953-1221 | F: (305) 821-7284 | C: (305) 206-0170 | T: (800) 233-7164;RPrieto@popular.com;;;
+34;America do Sul;Sánchez,  Rodrigo Nicolás;Sales Manager;Prugna SRL;+54 9 2604419683;prugnasrl@gmail.com;www.prugnasrl.com.ar;Argentina;Productos orgánicos (ciruela)
+35;America do Sul;Ing. Hernán Perez;Gerente General - División Suero;Remotti;Tel. (54 11) 4837-8050 | Fax (54 11) 4837-8051;hperez@remotti.com.ar | aetchepare@remotti.com.ar;www.remotti.com.ar;Argentina;Suero
+36;America do Sul;María Esther Castro;Jefe de Ventas Internacionales / Head of International Sales;Salica del Ecuador S.A.;(593-4) 6006990 | (+593) 962790210;mcastro@salicadelecuador.com.ec;www.salica-america.com;Equador;Peixes Enlatados
+37;America do Sul;Juan Patricio Anderson;Exports Manager;San Ignacio;Ph. +54 (11) 6009-4900 int: 205 | Mob. +54 (9) 11 53365183;janderson@sanignacio.com.ar;www.sanignacio.com.ar;Argentina;
+38;America do Sul;Alejandra Santiago;Commercial Manager;S&M Foods;+51 238 1353 Ext. 27 | +51 992 757 485;acano@smfoods.com.pe;www.smfoods.com.pe;Peru;Graos, Funghi, Quinoa
+39;America do Sul;Luis Alejandro Perez L.;Brand Ambassador;Santa Rita Estates;C. 55 (11) 9 7346 7193;lperezl@santarita.cl;;Chile;Vinhos
+40;America do Sul;David Flores Aguirre;Gerente Comercial;Especiera Tacna;+51 952 960201;especieratacna@hotmail.com | dflores@especieratacna.com.pe;www.especieratacna.com.pe;Peru;Especiarias
+41;America do Sul;Rodrigo Gonnet;Comercio Exterior / Foreign Trade;Tregar (García Hnos S.R.L. Agroindustrial);Tel.: +54 (3498) 480747 | Cel.: +54 9 (3498) 443836;rodrigo.gonnet@garciahnos.com.ar;www.tregar.com.ar;Argentina;
+42;America do Sul;Nadja Schumann;;Vanilla-Trade;+52-2291-520227 | +52-229-1303630;schumann@vanilla-trade.com;www.vanilla-trade.com;México;Vanilla | Baunilha
+43;America do Sul;Alexander M.S. Vik;;VIK;TEL +377.99.99.91.61 | FAX +377.99.99.91.63 | CELL +377.6.78.63.11.18 | Skype: amsvik;alex@vik.org;;Mónaco;
+44;America do Sul;Lisette Cáceres;International Account Manager;Vínculos Agrícolas E.I.R.L.;Ext. 408 | Cel.: (511) 991698720 | Of.: (511) 372-8048 | Cel.: (511) 372 7233 | Fax: (511) 372 7233;lcaceres@vinculosagricolas.com;www.vinculosagricolas.com;Perú;Quinoa
+45;America do Sul;Katherine Rojas Contrera;Business Manager;Watts;Tel.: +56-22 441 4112;katherine.rojas@watts.cl;www.watts.cl;Chile;
+46;America do Sul;;COMEX (Comercio Exterior);Wiraccocha (Healthy Foods);;comex@wiraccocha.com.pe;www.wiraccocha.com.pe;Peru;Quinoa, Amaranth, Maca, Chía, Cacao, Jengibre, Cúrcuma, Aguaymanto (Golden Berries), Frutos secos amazónicos
+47;ANUGA_America do Sul;Jorge Fernández G.;Gerente General / General Manager;Agro Fergi;(+51) 997 564 425;jfernando@agrofergi.com.pe;www.agrofergi.com.pe;Peru;Orégano, Chia, Quinoa
+48;ANUGA_America do Sul;;;ApexBrasil (Buy Brazil - Ministerio de Desarrollo, Industria, Comercio y Servicios);+55 61 2027 0223;apexbrasil@apexbrasil.com.br;apexbrasil.com.br/en | buybrazil.com;Brasil;
+49;ANUGA_America do Sul;Lucas Santana;Comercial | Exportação;Castanhas Ouro Verde (Ouro Verde Nuts);+55 (69) 9.9949-3901;comercial@castanhasouroverde.com.br;castanhasouroverde.com.br;;Castanhas (frutos secos de la Amazonía)
+50;ANUGA_America do Sul;;;DCOOP (Nature full of Soul);;;www.dcoop.es;;Azeitonas, Azeite de Oliva
+51;ANUGA_America do Sul;Ana Gabriela Iboy Serrano;Asistente de Logística / Logistics Assistant;Fedecovera Guatemala;+(502) 7929-1717 | +(502) 2205-5121 | +(502) 3384-6274;giboy@fedecovera.com;www.fedecovera.com;Guatemala;
+52;ANUGA_America do Sul;María Alejandra Riveiro M.Sc.;Asistente de Comercialización - Marketing;Fedecovera Guatemala;+(502) 7929-1717 Ext. 214 | +(502) 4485-5156;mriveiro@fedecovera.com;www.fedecovera.com;Guatemala;Especiarias
+53;ANUGA_America do Sul;Carlos Pelenur;Director L.A.;Libby's Brand Holding LTD;Mobile. +54 911 4445 9265;carlos.pelenur@libbys.com;www.libbys.com;Argentina;
+54;ANUGA_America do Sul;Vinicius Mastelaro;International Trader;Ostinato Group;Tel. +55 11 5056-9580 | Mob. +55 11 94514-7729;vinicius.mastelaro@ostinato.com.br;www.ostinato.com.br;Brasil;Dried Fruits & Nuts
+55;ANUGA_America do Sul;Arón Gadea Espinoza;Gerente Comercial;S&M Foods;+51 943 574 797;agadea@smfoods.com.pe;www.smfoods.com.pe;Peru;Quinoa
+56;ANUGA_America do Sul;Carlos Pelenur;Managing Director, Latin America;Seneca (Farm Fresh Goodness Made Great);p: 54-11-4552-4809 | f: 54-11-4555-1053 | c: 54-9-11-4445-9265;cpelenur@senecafoods.com;senecafoods.com;Argentina;
+57;ANUGA_America do Sul;Fernando Fusari;;Terrandes S.A. (Import & Export);+54 9 2612 09-9377;info@terrandessa.com;www.terrandessa.com;;
+58;ANUGA_America do Sul;Diego Valverde;;Terrandes S.A. (Import & Export);+54 9 2616 88-0333;info@terrandessa.com;www.terrandessa.com;;
+59;ANUGA_China;Carol Ning;;Xingtai Hongri Biotech Co., Ltd;+86-319-3971719 | +86-17531975627;carolningxiao@qq.com;www.hongrispice.com;China;Chili Pepper
+60;ANUGA_China;Sharon Sun;Sales Director;Dalian East Dawn Nuts Co., Ltd (ED NUTS);Mob: +86-15641180826;sharon@eastdawnseeds.com;www.ednuts.com | www.edwalnuts.com;China;Dried Fruits & Nuts
+61;ANUGA_China;Giulia Bonci;Amministrazione - acquisti e produzione;Fratelli Bonci S.R.L. (Pasticceria Bonci / Mezzasoma);Tel. +39 055 0132549 | Cel. +39 320 8873772 | Tel. (azienda) +39 055 981225 | Fax +39 055 981726;giulia@pasticceriabonci.it | info@pasticceriabonci.it | pasticceriabonci@pec.it;www.pasticceriabonci.it;Italia;Pastelería (Pasticceria)
+62;ANUGA_China;Dott. Andrea Tealdi;;TAB Green Line s.r.l. (Gran Cucina);cell. +39 339.6695593 | Tel 0172.648124 | Fax 0172.648700;info@tabgreenline.it;www.tabgreenline.it;Italia;
+63;ANUGA_China;Maria Zhang (张娜);Sales Manager;Heilongjiang Hexing Agricultural Products Co., Ltd;Tel: 0086-469-5227800 | Mob: 0086-15040505359;maria@hexing-food.com;www.hexing-food.com;China;Calabaza (Pumpkin, nota manuscrita)
+64;ANUGA_China;Hilson Li;;Gold Hope Co., Ltd (Sikiang Cassia Factory);TEL: 86-19121736650 | FAX: 86-774-3843429 | WeChat: hotong000 | WhatsApp: 008619121736650;sikiang@163.com;;China;Canela china entera, anís estrellado, jengibre seco, raíces de galanga, cardamomo negro
+65;ANUGA_China;Vahab Komlakh;Sales Manager / Verkaufsleiter;Industrial Commercial Service (ICS) GmbH;Tel +49 (0) 241 562 561 | Mobile +49 (0) 152 17115859;Vahab@ics-food.de | Vahab2k@yahoo.com;www.ics-food.de;Alemanha;
+66;ANUGA_China;Alex Ge;Manager;Shandong Hitop Foodstuff Co., Ltd (Joyfruit dried fruit);+86 (0) 191 5397 3026 | +86 (0) 539 7919 902 | +86 (0) 539 7919 908;haitongsale2@hitopfood.com;http://www.hitopfood.com;China;Pasas: Sultana, Brown, Green, Yellow, Blackcurrant Raisins
+67;ANUGA_China;Maggie Li;Sales Director;Kunming Universal Trading Co., Ltd;Mobile phone: 19808807523;hanhanyu_2009@188.com;;China;Mushrooms | Cogumelos | Hongos
+68;ANUGA_China;Lorenzo Viscardi;Export Manager;La Bella San Marzano;(+39) 366 4198780;info@labellasanmarzano.it;labellasanmarzano.it;Italia;Tomate
+69;ANUGA_China;Susanna Zou (邹玉妍);Sales Manager;Lontrue Co., Ltd;+86 187 6650 1018;susanna@lontrue.com;www.lontrue.com;China;Dried Fruits & Nuts
+70;ANUGA_China;Carlo van Boxel;;Maejor Nuts;m +31 (0)6 2948 6574 | p +31 (0)10 3100 888;carlo@maejornuts.com | trade@maejornuts.com;maejornuts.com;Holanda (Países Baixos);Dried Fruits & Nuts
+71;ANUGA_China;Kim Zhao (赵志军);General Manager;Qingdao Kington Produce Co., Ltd;Tel:+86-532-85887008 | Mobile:86-13506392522;saleskingtonfood@126.com;www.kingtonco.com;China;Dried Fruits & Nuts
+72;ANUGA_China;Paul Ritsma;European Sales Manager;Setton Pistachio of Terra Bella, Inc.;Main: +31 (0)575 511672 | Mobile: +31 (0)6 57 559414 | Fax: +31 (0)575 514095;pritsma@settonfarms.eu;settonfarms.com;Holanda (Países Baixos);Pistache | Pistacchio
+73;ANUGA_China;Lorenzo Toffolon;Sales Manager;Steriltom srl;Direct +39 0523 789827 | Mobile +39 345 5623403;sales@steriltom.com;www.steriltom.com;Italia;Tomate
+74;ANUGA_China;Betty Ma (马淑平);Sales Manager;Tianjin Waysun Foodstuff Co., Ltd (Chalton);Tel: 0086 13821062111;mspoo@tjwaysun.com;www.waysun-cn.com;China;
+75;ANUGA_China;Eugenio Catania;Responsabile Acquisti;Zarotti S.p.A.;cell +39 348 9019631 | tel +39 0974 966069;e.catania@zarotti.it | info@zarotti.it;www.zarotti.it;;
+76;ANUGA_EastEurope;Anna Kevkhishvili;CEO;Anigozi;(+995) 592 70 00 10 | (+995) 322 88 80 88;ana@anigozi.com;www.anigozi.com;Georgia;Walnuts, Almonds
+77;ANUGA_EastEurope;Tornike Mchedlishvili;Owner;Bio Almond Georgia (NUSHI);(+995) 557 84 79 97;bioalmond.geo@gmail.com;;Georgia;Almendras
+78;ANUGA_EastEurope;Bivol Ion;CEO;Bivcom Prim / Bivofruit;+(373) 68 055 800 | +(373) 79 586 520;info@bivcomprim.md | info@bivofruit.md;www.bivcomprim.md;Moldávia;Dried Fruits & Nuts
+79;ANUGA_EastEurope;Valeria Cojocaru;Export Manager;Bonaro;+373 790 03 088;cojocarumsr@gmail.com;;Moldávia;Dried Fruits & Nuts
+80;ANUGA_EastEurope;Srdan Radojević;tehnolog / food technologist;Calibro doo;Mob. +381 63 68 01 21 | Tel. +381 34 68 12 323;srdjanradojevic@calibro.rs;;Sérvia;Prunes
+81;ANUGA_EastEurope;Alisher Shukurlaev;Founder;Chelak Tomorga Xizmati;+998 97 810 88 88;alisher@chtx.uz;www.chtx.uz;Uzbequistão;
+82;ANUGA_EastEurope;Maksat Torobekov;Founder;EximTorg LLC;+996(777)908-777;m.torobekov@gmail.com;www.expo-import.com;Kyrgyzstan;Walnuts, Almonds
+83;ANUGA_EastEurope;Ortuqov Lutfullo;Commercial director;Fruits Valley;9,92928E+11;ortukovl@gmail.com | info@fruitsvalley.tj;www.fruitsvalley.tj;Tadjiquistão;
+84;ANUGA_EastEurope;Nigora Djurabaeva;;Fruit Voyage;(+99890) 922-10-90 | (+99897) 745-33-77;nigora@fruitvoyage.uz | fruitvoyagellc@gmail.com;www.fruitvoyage.uz;Uzbequistão;Fresh fruits and vegetables
+85;ANUGA_EastEurope;Giorgi Meskhidze;Co-founder;Georgian Walnut Enterprise;+995 577 403 099;g.meskhidze@georgianwalnut.com;;Georgia;Walnuts
+86;ANUGA_EastEurope;Mamadjonov Muminjon Muhammadjonovich;Deputy Director;Isfarafood;+992 (93) 598-00-60;manager@isfarafood.tj;www.isfarafood.com;Tadjiquistão;Apricots, Plums (anotado a mano)
+87;ANUGA_EastEurope;Ulugbek Zakhritdinov;CEO of Trustagro LLC;Trustagro LLC;+998 90 992 00 17;ulugbek.z@gmail.com;www.trustagro.uz;Uzbequistão;Dried Fruits & Nuts
+88;ANUGA_EastEurope;Ravshan Ikramov;CEO;Uz Kand;+998 99 811 50 05 | +998 90 811 50 05 (whatsapp, wechat, telegram);info@uzkand.uz;www.uzkand.uz;Uzbequistão;Dried Fruits & Nuts
+89;ANUGA_EastEurope;Yana Gorova;Sales manager;Yasmina Nuts;+38 096 167 36 65;yasmina.company@gmail.com;www.yasmina.ua;;
+90;ANUGA_EastEurope;Amonulloev Bakhodur Hamidovich;General director;ZarrinFood;+992 92 020 20 70;8355000mz@gmail.com;www.mevaizarrin.com;;Dried Fruits & Nuts
+91;ANUGA_Oriente;Jaydeep Singh Chouhan;;Agrim Pte Ltd;m: +62 811 6580030 | t: +65 6638 8646;jaydeep@agrimltd.com;www.agrimltd.com;Singapore;
+92;ANUGA_Oriente;Ahmed Nabil;Co-founder & Commercial director;Nile Garden;+2 01122227906;Ahmed.nabil@Nile-Garden.com;;;
+93;ANUGA_Oriente;Arithra Silva;Head of Operations and Marketing/Director;International Commodity Exports (PVT) Ltd. / Silvermill Group of Companies;Head Office T:(+94)337389377 F:(+94)332273791 M:(+94)703293326 | Corporate Office T:(+94)117389377 F:(+94)112677063;arithra@silvermillgroup.com;www.silvermillgroup.com;Sri Lanka;
+94;ANUGA_Oriente;Ms. Quyen Nguyen;Sales Manager;DK Commodity Company Limited (DK Commodity Inc.);+84 905 19 12 87 (WhatsApp/Wechat/Line) | Tel: +84 813 019 079 | Fax: +84 28 730 565 68;sale@dkltd.vn;www.dkltd.vn;Vietnam;Grinding Pepper, Whole Pepper, Turmeric, Cassia/Cinnamon, Star Anise, Light Pepper for Extraction, Coffee Beans, Desiccated Coconut, Other Spices and Dehydrated Products
+95;ANUGA_Oriente;Dorothy Qiu;Sales Director;Yunnan Shanyou Agricultural Development Co., Ltd. / Lincang Shanyou Agricultural Technology Development Co., Ltd;+86 17387187596;dorothyqiu@163.com;;China;Walnuts
+96;ANUGA_Oriente;Omar Kandel;Export Specialist;Olivee Co. for production and agricultural manufacture S.A.E (Dr.Olivee);Tel: +2 0554 412 231 | Fax: +2 0554 412 232 | Mobile: +2 01220571987 / +2 01280777085 / +2 01025105822;omar.kandel@drolivee.com;www.drolivee.com;Egito;
+97;ANUGA_Oriente;Son Nguyen Thanh;Managing Director;Elmar Trading & Production Co Ltd;84918616691;sonnt@elmarspices.com;www.elmarspices.com;Vietnam;
+98;ANUGA_Oriente;Ahmet Bayır;;Elnas Nuts (Elnas Gıda İnşaat Ticaret ve Limited Şirketi);+90 533 437 47 57 | +90 533 122 22 21 (Office);İnfo@elnas.com.tr;www.elnas.com.tr;Turquia;
+99;ANUGA_Oriente;Enes Malik Kilic;Export Department;Akkiliç Gıda ve Tarım Ürünleri San. Tic. Ltd. Şti.;0090 530 163 56 11 | P: 0090 422 324 7814 | F: 0090 422 321 1240;akkilic@akkilic.com.tr;www.akkilic.com.tr;Turquia;
+100;ANUGA_Oriente;Alice Yu / 于辉;General manager / 总经理;ShanDong Farmer Land Foodstuff Co.,Ltd (山东省佳百德食品有限公司);+86-18553287962 | Tel: 86-532-85652980 | Fax: 86-532-85652950;info@chinafarmerland.com;www.chinafarmerland.com;China;Dried Fruits & Nuts
+101;ANUGA_Oriente;Daisy Gao;Export Manager;Farm Keeper Group;Whatsapp/Cel: +86 13256830536;daisy.gao@farmkeeper.cn;www.farmkeeper.cn;China;Desiccated Coconut
+102;ANUGA_Oriente;Jessie;Export Manager;Farm Keeper Group;Whatsapp/Cel: +86 15224396933;jessie@farmkeeper.cn;www.farmkeeper.cn;China;Chestnut (anotado a mano)
+103;ANUGA_Oriente;Amir Sedaghat;Managing Director;Granuts / Grandor Co.;Tel: +98 21 22656601-3, +98 21 2266 8205 | Cell: +98 912 104 3350;info@GrandorNuts.com;www.GrandorNuts.com;Iran;Pistache | Pistacchio
+104;ANUGA_Oriente;Alison Tian;Sales Director;Qingdao Greenlink Foods Co., Ltd. / Xinjiang Greenlink Foods Co., Ltd. / Linyi Greenlink Foods Co., Ltd.;Mob/WhatsApp/WeChat: 0086 13688689409;alison@greenlinkfoods.com;www.greenlinkfoods.com;China;Sultana Raisins, Green Raisins, Walnut Kernels, Roasted & Salted Peanut, Dried Apples, Goji Berry
+105;ANUGA_Oriente;;;Grover Sons (Govt. Recognised Export House);+91 9820128050;sesame786@gmail.com;www.groversons.com;India;Seeds | Sementes
+106;ANUGA_Oriente;Hsin Hsin / 辛欣;Deputy General Manager / 副总经理;Sanmenxia Huayang Foodstuff Co., Ltd. (三门峡华阳食品有限公司);Mobile: +86 18622264052 | Tel: +86 398 7881588 | Fax: +86 398 7881955;maryhsin@hotmail.com;;China;Walnuts
+107;ANUGA_Oriente;Elsie Emad;Export Sales Executive;Indagro;+2 0105 071 5417;elsie.shawky@indagroegypt.com;www.indagroegypt.com;Egito;Azeitonas, Azeite de Oliva
+108;ANUGA_Oriente;Jai Bhaskar Shah;Director;JABS International Pvt. Ltd.;M: +91 9820098418 | T: +91 22 4141 2525;jaibshah@jabsinternational.com | jabs@jabsinternational.com;www.jabsinternational.com;India;
+109;ANUGA_Oriente;Usman Hayat;Managing Director;Kohenoor International;+92 334 2634411;info@kohenoorint.com;www.kohenoorint.com | alfalfaseeds.org | dairyseed.com;Paquistão;Seeds | Sementes
+110;ANUGA_Oriente;Andrew Waring;Global Sales Director;Laurel Foods;61412807500;andrewwaring@laurelfoods.com;laurelfoods.com;;
+111;ANUGA_Oriente;Taher Mahdavieh;Managing Director;M. Mahdavieh Export Co. (M.E.C.) - Dried Fruit Business;+98 (21) 2202 3762, 63 | Mobile: +98 912 114 89 45;info@mahdaviehexportco.com | mahdavieh.exportco@gmail.com;www.mahdaviehexportco.com;Iran;Dried Fruits & Nuts
+112;ANUGA_Oriente;Amin Sobhi;Sales Manager;Nakhl Sabz Sobhi Co.;Whatsapp: +98 914 307 34 17 | Factory: +98 41 324 66 189 | HQ: +98 41 342 49 253-4 | Fax: +98 41 342 49 255;info@Nakhlsabzsobhi.com;www.Nakhlsabzsobhi.com;Iran;Nozes | Tâmara
+113;ANUGA_Oriente;;;Nile Garden;;;www.Nile-Garden.com;;
+114;ANUGA_Oriente;Noshi Gad Garas;CEO;ALGaras For Spices & Herbs (AL GARAS);Mobile: (+20) 1222 13 6259 | Tel: (+203) 39 39 213 / 14 | Fax: (+203) 39 39 894;info@algarasspices.com;www.algarasspices.com;Egito;Spices & Herbs
+115;ANUGA_Oriente;Jamal Abu Jarrar;General Manager;Palestine Dates Company;+970 594 884 000 (también WhatsApp);jaj_jarrar@yahoo.com | info@palestinedates.com;www.palestinedates.com;Palestine;Dates (Tâmaras)
+116;ANUGA_Oriente;Julia Dzang;;Quang Bao Import Export Company Limited;+84 88 94 12 001 (Whatsapp);Julia@quangbaoltd.com;https://quangbaocashew.com/;Vietnam;Cashews
+117;ANUGA_Oriente;Maksim / 白峰;;Xinjiang Shangli Hongrun Agricultural Science and Technology Co., Ltd;Wechat/WhatsApp: +86 18195823475;bf280012455@163.com;;China;Seeds | Sementes
+118;ANUGA_Oriente;Sudhira Anthony;General Manager Marketing;S. A. Silva & Sons Lanka (PVT) LTD. (Silvermill);Tel: +94 11 7389375-77 Ext:219 | Fax: +94 11 2677063 | Mobile: +94 71 7881204;sudhira@silvermillgroup.com;www.silvermillgroup.com;Sri Lanka;Coco
+119;ANUGA_Oriente;Ahmed Ragab;CEO & Managing Director;Spectra Company for Export;Mobile/Whatsapp: +20 111 111 7019 | Telephone: +203 38 25 480;Ahmedragab@spectra-eg.co | Aragab.stcco@gmail.com;www.spectra-eg.co;Egito;Especiarias
+120;ANUGA_Oriente;Elaine Xu / 徐晓晨;Director, International Business Dep.V;Shandong Sunshine International Trade Co., Ltd. (SunFruit);Tel: 0086-536-8583051-8018 / 0086-532-86682966 | Mobile: 0086-18206446893;xiaochen@ygfood.com;www.ygfood.com;China;
+121;ANUGA_Oriente;Kelly Yu / 于洁;Sales Director;Sunny Food (三利食品);+86 18638212399;kelly@hnsunnyfood.com;www.hnsunnyfood.com;;Garlic Fresh Flakes
+122;ANUGA_Outros;Adrián Fco. López Soler;;Juan Fra Aceitunas;653 596 810 | 968 880 678;adrianlopez@aceitunasjuanfra.es;aceitunasjuanfra.es;Espanha;Azeitonas
+123;ANUGA_Outros;Ana Bernal Verdú;Departamento de Ventas / Sales Department;Bernal Alimentación, S.L.;+34 620 240 731 | +34 965 310 987;anabernal@aceitunasbernal.com | info@aceitunasbernal.com;www.aceitunasbernal.com;Espanha;Azeitonas, Azeite de Oliva
+124;ANUGA_Outros;Martin Reynolds;Marketing Director;Cape Dried Fruit Packers (PTY) LTD (Capedry);Tel: +27(0)23 614 2682 | Mobile: +27 (0) 76 838 1818;martin@capedriedfruit.com;www.capedry.co.za;South Africa;Dried Fruits & Nuts
+125;ANUGA_Outros;Eduardo Pérez;Commercial Director;Productos Churruca S.A.;96 192 00 63 | Fax: 00-34-96 192 08 83;eperez@productoschurruca.es | prod.churruca.sa@productoschurruca.es;www.productoschurruca.es;Espanha;Snacks
+126;ANUGA_Outros;Bart Pieters;Sales Manager;Dipasa;Mobile: +31 6 48438146 | Tel: +31 53 428 33 66;bart@dipasa.nl;dipasa.nl;Holanda (Países Baixos);Seeds | Sementes
+127;ANUGA_Outros;Efthimis Frantzanas;Export Department;Olivellas SA;Mobile: +30 6975 874 310 | Tel: +30 23710 52260 / 53260 (ext. 212) | Fax: +30 23710 51635;e.frantzanas@olivellas.gr | exports@olivellas.gr;www.olivellas.gr;Grécia;Azeitona, Azeite de Oliva
+128;ANUGA_Outros;J. Antonio Sánchez;Director Comercial;Frutos Secos Auro;T: 968 865 407 | M: 608 060 006;antonio@frutossecosauro.com;www.frutossecosauro.com;;
+129;ANUGA_Outros;Joost Bakker;Director Trade;GroupDepre / Lenersanpoortman - Feed & Food Ingredients since 1803;T: +31 (0)786 22 06 39 | M: +31 (0)611 49 54 31;joost.bakker@groupdepre.com;www.groupdepre.com;Holanda (Países Baixos);Feed & Food Ingredients
+130;ANUGA_Outros;Mats Nevelius;CEO;Lofoten Arctic Water;+47 909 19 965;mats@lofoten-water.com;;Norway;Arctic Water (still water, sparkling water)
+131;ANUGA_Outros;Albert Owusu;CEO;Nano Foods Ltd. (miembro del ASTEK Group);+(233) 243 262 954;albert@nanofoodsltd.com | nanofoods@hotmail.com;www.nanofoodsltd.com;Ghana;Enlatados
+132;ANUGA_Outros;Emiel van Arkel;trade;Nutland BV;+31 (0)6 3825 9963 | +31 (0)70 820 97 77;e.vanarkel@nutland.nl | trade@nutland.nl;www.nutland.nl;Holanda (Países Baixos);Dried Fruits & Nuts
+133;ANUGA_Outros;Mustafa Kemal Akpinar;;Premium Foods (marca Nuts & Berries);M: +32 479 28 02 31 | F: +32 9 296 07 60;mustafa.akpinar@premiumfoods.be;www.premiumfoods.be;Bélgica;Snacks
+134;ANUGA_Outros;Arlette Renteria;Sales Manager;Pecaninis (The Pecan Brand);+52 872 182 8708;salesone@pecaninis.com;;;Dried Fruits & Nuts
+135;ANUGA_Outros;Peter Kuilman;Director;RedSun Dried Fruit & Nuts (Pty) Ltd;Tel: +27 (0)54 337 8660 | Mobile: +27 (0)83 283 6744;peter@redsun.co.za;www.redsun.co.za;South Africa;Dried Fruits & Nuts
+136;ANUGA_Outros;Maurits de Koning;Founder & Sourcing Director;Sabor Verde;+31 636020739;maurits@saborverde.eu;;Holanda (Países Baixos);
+137;ANUGA_Outros;Henk Kuiper;Commercial director;Yme Kuiper B.V.;Tel: +31(0)513 617 013 | Mobile: +31(0)651 106 139;henk@ymekuiper.nl;www.ymekuiper.com;Holanda (Países Baixos);Dried Fruits & Nuts
+138;ANUGA_USA-CANADA;Ken Wagner;Marketing Manager;Berberian Nut Company, LLC;Office: 530.891.4900 | Cell: 530.815.5041;kawagner@bncnut.com;;;Dried Fruits & Nuts
+139;ANUGA_USA-CANADA;;;California Prunes;;info@californiaprunes.net;www.californiaprunes.net;;Prunes
+140;ANUGA_USA-CANADA;Kyle Williams;Sales Administrator;Crain of California (Crain Walnut Shelling, Inc. / Crain Ranch);Ph: +1(530) 529-1585 Ext. 2760 | Mobile: +1(530) 567-5272;kwilliams@crainwalnut.com;www.crainwalnut.com | www.crainranch.com;Estados Unidos;Walnuts
+141;ANUGA_USA-CANADA;Christopher Cromwell;Senior Director, International Sales;Diamond Foods, LLC;Cell: 1(916) 589-7041 | Office: 1(209) 461-7396;ccromwell@diamondfoods.com;www.diamondnuts.com;;Walnuts, Almonds
+142;ANUGA_USA-CANADA;Chetan Pitroda;International Business Executive;Eximcan Canada (Commodity Traders Since 1992);Phone: +1-416-979-7967 | Cell/Whatsapp: +1-438-231-4844 | Fax: +1-416-979-8866;chetan@eximcan.com;www.eximcan.com;Canadá;
+143;ANUGA_USA-CANADA;Jose Altamirano;Director Comercial;Galdisa;Tel: (+52) 55 5630 4616 Ext. 1051 | Cel: (+52) 55 3434 8618;jose.altamirano@galdisa.com;galdisa.com;;Walnuts
+144;ANUGA_USA-CANADA;Aaron McGraw;Sales Director;Northwest Hazelnut Company;Cell: 971.241.9424 | Sales: 503.982.8030 | Fax: 503.982.8028;aaronm@hazelnuts.com;www.hazelnuts.com;Estados Unidos;Hazelnuts
+145;ANUGA_USA-CANADA;Kaleigh Hamilton;CEO;Kalshea Commodities Inc;O: 204 808 9284 | C/WhatsApp: +1 204 899 1172;kaleigh@kalshea.com;kalshea.com;Canadá;Seeds | Sementes
+146;ANUGA_USA-CANADA;Silvio Ermini;Regional Sales Manager, Southern Europe and Africa;Mariani Family (Premium Dried Fruit, Est. 1906);+39 338 1430172;sermini@mariani.com;;Italia;Dried Fruits & Nuts
+147;ANUGA_USA-CANADA;Jackie Valerio;Trader;Mem Fairway Inc (Nuts and Dried Fruits Specialist);1 (949) 669-4977;jackie@memfairway.com;www.memfairway.com;Estados Unidos;Acai, Almonds, Apricots, Bananas, Baru Nuts, Blueberries, Brazil Nuts, Cacao, Cashews, Cherries, Chia Seeds, Chickpeas, Cranberries, Coconut, Dates, Figs, Flaxseed, Hazelnuts, Lentils, Macadamias, Mangoes, Oats, Peanuts, Pecans, Pine Nuts, Pineapples, Pistachios, Plums, Prunes, Pumpkin Seeds, Quinoa, Raisins, Rice, Sesame Seeds, Sunflower Seeds, Walnuts, y más
+148;ANUGA_USA-CANADA;Luba Engel;Trade Manager;Mem Fairway Inc (Nuts and Dried Fruits Specialist);1 (323) 859-7096;luba@memfairway.com;www.memfairway.com;Estados Unidos;Acai, Almonds, Apricots, Bananas, Baru Nuts, Blueberries, Brazil Nuts, Cacao, Cashews, Cherries, Chia Seeds, Chickpeas, Cranberries, Coconut, Dates, Figs, Flaxseed, Hazelnuts, Lentils, Macadamias, Mangoes, Oats, Peanuts, Pecans, Pine Nuts, Pineapples, Pistachios, Plums, Prunes, Pumpkin Seeds, Quinoa, Raisins, Rice, Sesame Seeds, Sunflower Seeds, Walnuts, y más
+149;ANUGA_USA-CANADA;;;Oregon Hazelnuts;;;www.OregonHazelnuts.org;Estados Unidos;Hazelnuts
+150;ANUGA_USA-CANADA;Mike Poindexter;CEO;Poindexter Nut Company;Office: 559-834-1555 | Fax: 559-834-1759 | Cell/WhatsApp: 559-287-1555;mike@poindexternut.com;;;
+151;ANUGA_USA-CANADA;Chris Cummings;Global Sales Director;RPAC LLC (Almond Grower & Processor);Cell: +1.916.719.9142 | Office: +1.209.826.0272 | Fax: +1.209.826.3882;chris@rpacalmonds.com;www.rpacalmonds.com;Estados Unidos;Almonds
+152;ANUGA_USA-CANADA;;Sales Department;Select Harvest U.S.A. (Grower, Processor, Shipper of California Almonds);;info@selectharvestusa.com;www.selectharvestusa.com;Estados Unidos;Almonds
+153;ANUGA_USA-CANADA;Kurt Koestler;Director of International Sales;Seneca Foods Corporation;P: +1-651-395-3250 ext. 5 | C: +1-612-214-9259;KKoestler@senecafoods.com;senecafoods.com;Estados Unidos;Conservas
+154;ANUGA_USA-CANADA;Alex Lindsey;Sales Manager;Summit Premium Tree Nuts;Cell: 1-650-400-9230 | Office: 1-916-988-1081 | Whatsapp: 1-650-400-9230;alexlindsey@summitalmonds.com;;Estados Unidos;Dried Fruits & Nuts
+155;ANUGA_USA-CANADA;Sunny Toor;CEO;Valley Pride Ag Co. (Growers, Processors & Supply Chain Managers);Office: +1(559) 439-2750 | Mobile/Whatsapp: +1(559) 709-2402;sunny@valleyprideag.org;www.VALLEYPRIDEAG.org;Estados Unidos;Walnuts, Almonds
+156;ANUGA_USA-CANADA;Tina Mobayen;;Victoria Pulse Trading Corporation;Office: 604.733.1094;tina@victoriapulse.ca;www.victoriapulse.ca;Canadá;Canary seed (anotado a mano, no del todo seguro)
+157;ANUGA_USA-CANADA;Rick Peterson;VP of Sales & Marketing;Willamette Hazelnut;971-227-7082;rick@whazelnut.com;willamettehazelnut.com;;Hazelnuts
+158;Cheeses;Marco Zamboni;Ufficio Commerciale;Caseificio Cavola s.c.a. (993.it);+39 349 6690150 | Tel.: +39 0522 806113 (Int. 203);export@993.it;www.993.it;Italia;Queijos & Laticínios
+159;Cheeses;Dr. Pablo J. Namnum Puigbó;Gerente General;Anacaona & Lonjeff (Masters Distribuitors, Circa 1953);OF: 809 537 5559 | CEL: 809 723 4130 | FAX: 809 537 6521;pablonp@anacaona-sa.com;;República Dominicana;
+160;Cheeses;Jeffrey M. Berry;Presidente;Anacaona & Lonjeff (Masters Distribuitors, Circa 1953);OF: 809 537 5559 | CEL: 809 723 4120 | FAX: 809 537 6521;jeffmb@anacaona-sa.com;;República Dominicana;
+161;Cheeses;Francesca Staempfli;Export Department;Alimenco S.R.L.;Telephone: +39 081 28 92 28 | Mobile: +39 344 087 1500;francesca@alimenco.it;www.alimenco.it;Italia;
+162;Cheeses;Rui Pinto Gonçalves;CIR;Armando Gonçalves & Filhos, S.A. (AGF);T: +351 214942220 | M: +351 919132625 | F: +351 214942215;rjg@agfco.pt;www.armandogoncalves.pt | www.agfco.pt;Portugal;Queijos & Laticínios
+163;Cheeses;Marcel Ledergerber;Geschäftsführer;Bodensee Käse AG;T: +41 71 911 13 26 | F: +41 71 911 62 49 | M: +41 79 402 59 12;marcel.ledergerber@bodensee-kaese.ch;www.bodensee-kaese.ch;Suíça;Queijos & Laticínios
+164;Cheeses;Artis Celmiņš;Head of Export sales;A/S Cesvaines Piens;Mob.: +371 20099991;artis@cesvainespiens.lv;;Letonia;
+165;Cheeses;Tim Hoppe;International Sales;Cheeseland Holland BV.;p: +31 (0) 348 690440;tim@cheeselandinc.com;www.cheeselandinc.com;Holanda (Países Baixos);
+166;Cheeses;Hugues Glatigny;Export Manager USA – Canada – Amérique du Sud, Business Development Fromages;Bières et Fromages de Chimay;Mob.: +32(0)478 963 484 | Tel.: +32 (0)60.21 04 50;h.glatigny@chimay.com;www.chimay.com;Bélgica;Queijos & Laticínios
+167;Cheeses;Sebastián Vargas Vargas;Export Manager;Cooperativa Agricola y Lechera de la Union Ltda. (Colun);+56 9 9020 3076;sebastian.vargas@colun.cl;www.colun.cl;Chile;
+168;Cheeses;Miguel A. Castillo Gonzalez;;Cremería San José S.A. de C.V.;Tels. 5600.2031 | 5600.2058 | 5694.0652 | 5600.1831;miguel.castillo@cremeriasanjose.com;www.cremeriasanjose.com;México;Queijos & Laticínios
+169;Cheeses;Eric van Munster;Export Manager;Daily Dairy Holland BV;M: +31(0)6-285 522 05 | T: +31(0)88-040 70 00;eric@daily-dairy.com;www.daily-dairy.com;Holanda (Países Baixos);Queijos & Laticínios
+170;Cheeses;Ruben Visser;;Daily Dairy Holland;M: +31(0)6-520 075 39 | T: +31(0)88-040 70 00;ruben@daily-dairy.com;www.daily-dairy.com;Holanda (Países Baixos);
+171;Cheeses;Silvija Stankaitytė;Junior Sales Manager;DairyHub by Rokiškio;+370 620 77489;silvija.stankaityte@rokiskio.com;www.dairyhub.lt;Lituânia;
+172;Cheeses;Lisa Ramatowski;Director, Channel Marketing;Dairy Farmers of Wisconsin;T: 608.203.7249 | M: 608.444.2032;lramatowski@wisconsindairy.org;WisconsinCheese.com | WisconsinDairy.org;Estados Unidos;
+173;Cheeses;Arjan de Jong;Director;DeJong Cheese;Tel: +31 13 5081316 | Fax: +31 13 508 3301 | Mob: +31 6 54337890;arjan@dejongcheese.nl;www.dejongcheese.nl;Holanda (Países Baixos);Queijos & Laticínios
+174;Cheeses;Aleka Bosma;Export Manager;DOC Cheese (Dutch Original Cheese);Tel.: +31 (0)528 28 04 40 | Mob.: +31 (0)6 10 67 06 14;aleka.bosma@doc-cheese.nl;www.doc-cheese.nl;Holanda (Países Baixos);
+175;Cheeses;Tom Groot;Commercial Director;DOC Kaas;Phone: +31 (0)35-528 83 99 | Mobile: +31 (0)6 119 283 61;tom.groot@doc-cheese.nl;www.dockaas.nl;Holanda (Países Baixos);Queijos & Laticínios
+176;Cheeses;Ing. Agr. Jean Paul Verdier;Director;Farming Colonia Suiza;Tel: +598 2929 0402 (Oficina Comercial) | +598 4554 4590 (Planta Industrial);jp@farming.com.uy;farming.com.uy;Uruguai;Queijos & Laticínios
+177;Cheeses;Gianluca Gualandri;;Ferrarini SpA / Vismara SpA;Tel. +39 0522 9321 (Ferrarini) | +39 039 59131 (Vismara);g.gualandri@ferrarini.it;www.ferrarini.it | www.vismaraitalia.it;Italia;
+178;Cheeses;Nedielko Simunovic E.;KAM;FG Corp;+569 9438 1889;nsimunovic@fgcorp.cl;www.fgcorp.cl;Chile;
+179;Cheeses;Tuncay Özgüner;Managing Director, FrieslandCampina Retail Brands Europe;FrieslandCampina Nederland B.V.;t: +31 (0)33 713 4561 | m: +31 (0)6 1295 2558;tuncay.ozguner@frieslandcampina.com;www.frieslandcampina.com;Holanda (Países Baixos);
+180;Cheeses;Chloé Pasteur;Area Manager;Fromagerie Milleret;Direct line: +33 (0)3 84 65 73 21 | Mobile: +33 (0)6 86 06 26 06;chloe.pasteur@fromagerie-milleret.com;www.milleretfromager.com;França;Queijos & Laticínios
+181;Cheeses;Ruben Del Puerto;Gerente Comercial;Granja Pocha S.A.;Tel/fax: (598) 4586.3234 | (598) 2208.8482 | Cel: 097 821 007;rdelpuerto@granjapocha.com;www.colonial.com.uy;Uruguai;Queijos & Laticínios
+182;Cheeses;Eric van Munster;Salesmanager;Kaasmakerij Henri Willig BV;T: +31 (0)513 48 43 64 | M: +31 (0)6 10 353 538;eric.van.munster@willig.nl;www.henriwillig.nl;Holanda (Países Baixos);Queijos & Laticínios
+183;Cheeses;Marije ten Berge-Kramer;Sales Manager;Kaasmakerij Henri Willig B.V.;M: +31 (0)6 40 628 433;marije.ten.berge@willig.nl;www.henriwillig.com;Holanda (Países Baixos);Queijos & Laticínios
+184;Cheeses;Pieter Bogaard;CCO (Chief Commercial Officer);Intercheese Holland;+31 (0)6 309 54 708 | +31 (0)318 463 494;pieter@intercheeseholland.nl;www.intercheeseholland.nl;Holanda (Países Baixos);
+185;Cheeses;Sébastien Ladj;East Coast Sales Manager;Interval (Passion for Cheese & Export since 1981);T: +1 201 448 8787 | M: +1 917 843 6698;sebastien@intervalexport.com;www.intervalexport.com;Estados Unidos;Queijos & Laticínios
+186;Cheeses;Femke Nijland;;Kaamps Cheese / Landgoed Kaamps;Tel. 074-277 57 39 | 0031 (0)6 10 52 79 23;femke@kaamps.nl;www.kaamps.nl;Holanda (Países Baixos);Queijos & Laticínios
+187;Cheeses;Johannes Bauer;Manager Export Sales / Verkaufsleiter;Käse Rebellen (Käserebellen GmbH);Mobil: +43 (0) 664 4272747;j.bauer@kaeserebellen.com;www.kaeserebellen.com;Austria;Queijos & Laticínios
+188;Cheeses;Piotr Romanowski;Export Manager;Lactima Sp. z o.o.;tel. +48 89 757 40 65 ext. 25 | mobile: +48 691 45 45 44;promanowski@lactima.pl;www.lactima.com;Polônia;
+189;Cheeses;Geraldo Tadeu Rezende;Gerente;Lactmilk Queijos (Rio Minas Distribuidora de Alimentos Ltda);(32) 8877-1000 | (32) 3025-4577;lidergrao@ig.com.br;www.lactmilk.com.br;Brasil;Queijos & Laticínios
+190;Cheeses;Deniss Sadovenko;Chairman of the board;AS Limbazu Siers;+371 29602060;deniss.sadovenko@limbazusiers.eu;www.limbazusiers.eu;Letonia;
+191;Cheeses;Laura Guobužaitė;Cônsul Geral da República da Lituânia em São Paulo;Consulado Geral da República da Lituânia em São Paulo;Tel. (11) 2614-8665 | Fax: (11) 2614-8718;laura.guobuzaite@mfa.lt;;Brasil;
+192;Cheeses;Jørgen Neupart;Sales Director;Mammen Cheese A/S;Mobile +45 3058 0012 | Phone +45 7453 2430;jorgen@mammencheese.dk;www.mammencheese.dk;Dinamarca;Queijos & Laticínios
+193;Cheeses;Margot Anthony;Administrateur;Margot Fromages SA;Tél. +41 24 425 81 52;anthony@margotfromages.ch;www.margotfromages.ch;Suíça;Queijos & Laticínios
+194;Cheeses;Pedro Rebello;Presidente Conselho Administração;Indulac - Indústrias Lácteas, S.A. (Martins & Rebello, desde 1901);T: +351 256 482 131/2 | F: +351 256 482 135 | Cel (anotado a mano): +351 917 228 641;p.rebelo@indulac.pt;www.indulac.pt;Portugal;
+195;Cheeses;Elisa Uvarelli;Sales Manager;ME Group;+39 0572 090596;elisa@megroup.srl;www.megroup.srl;Italia;Queijos & Laticínios
+196;Cheeses;Amandine Ferré;Trade Marketing Specialist;Consorzio del Formaggio Parmigiano Reggiano;Tel. +39 0522 700260 | Mob. +39 338 6333567;amandine.ferre@parmigianoreggiano.it;parmigianoreggiano.com;Italia;Queijos & Laticínios
+197;Cheeses;Chloé Pasteur;Chef de Zone;Paysange - Fromagerie Milleret;Ligne directe: +33 (0)3 84 65 73 21 | Portable: +33 (0)6 86 06 26 06;chloe.pasteur@fromagerie-milleret.com;www.paysange.com;França;Queijos & Laticínios
+198;Cheeses;Kimon Georgiou;Director of Exports;Perenzin Latteria Srl;mob. +357 99 693668 | Tel./fax +39 0438 21355;kimon@perenzin.com;www.perenzin.com;Italia;
+199;Cheeses;Vera Mota;Export Manager;Queijos Santiago;M. +351 932 436 463 | T. +351 219 758 710;vera.mota@queijossantiago.pt;www.queijossantiago.pt;Portugal;Queijos & Laticínios
+200;Cheeses;Rafael González V.;Owner, Agent of Foreign Trade;Representations Since 1953;Phone/Fax: +56 55 2 222828;casanti@gmail.com;;Chile;
+201;Cheeses;David G. Rico;Export Area Manager;Quesos Rocinante (Maestros queseros);Tel.: +34 926 266 410 | Directo: +34 687 172 087;davidrico@rocinante.es;www.rocinante.es;Espanha;Queijos & Laticínios
+202;Cheeses;;Ufficio Commerciale;Salumificio Valpolicella S.p.A.;Ph. +39 045 7702522;commerciale@salumificiovalpolicella.it;;Italia;
+203;Cheeses;Fernando Rodríguez Morón;Gerente de Comercio Exterior;San Ignacio;Cel. (+54) 911 3182 4047 | Tel. (+54) 11 6009 4900;frodriguezmoron@sanignacio.com.ar;www.sanignacio.com.ar;Argentina;
+204;Cheeses;Ryan Gillespie;Vice President of Marketing;Sartori;920.449.7964 office | 608.335.2301 cell;rgillespie@sartoricheese.com;www.sartoricheese.com;Estados Unidos;
+205;Cheeses;Vincent Bochot;Responsable Développement des Ventes / Sales Development Manager;Savencia Fromage & Dairy Overseas;T +33 1 39 24 99 89 | M +33 6 08 80 85 01;vincent.bochot@savencia-fdo.fr;;França;Ile de France, All Food (anotado a mano)
+206;Cheeses;Alberto Anversa;;Industria Casearia Silvio Belladelli S.R.L.;cell. 331 1856398 | Tel. 045.6304786;alberto.anversa@belladelli.it;;Italia;
+207;Cheeses;Franchini Pio Luigi;Amministratore Delegato;Industria Casearia Silvio Belladelli S.R.L.;Tel. 045.6304786 | Fax 045.6333884;info@belladelli.it;;Italia;
+208;Cheeses;Katarzyna Bednarczyk;Export Specialist;Spomlek Dairy Co-operative;tel. (+48 83) 35 11 426 | mob. (+48) 514 756 424;katarzyna.bednarczyk@spomlek.pl;www.spomlek.pl;Polônia;Queijos & Laticínios
+209;Cheeses;Emre Akkaya;Business Development Manager;swissmooh AG;Phone +41 (0)58 220 34 28 | Mobile +41 (0)79 244 96 10;akkaya@swissmooh.ch;www.swissmooh.ch;Suíça;
+210;Cheeses;Bente Hammervold;Head of Marketing and Innovation, TINE SA - New International Growth;TINE;Tel.: +47 75 66 30 80 | Cell.: +47 93 84 61 12;bente.hammervold@tine.no;www.tine.com;Norway;
+211;Cheeses;Jan-Ole Pedersen;Senior Export Manager Europe;TINE SA;Mob: +47 480 55 106 | Fax: +47 22 96 72 00;jan-ole.pedersen@tine.no;www.tine.no | www.jarlsberg.com;Norway;Jarlsberg
+212;Cheeses;Unni Sjøflot;;TINE International;Mob: +47 908 31 431;unni.sjoflot@tine.no;www.tine.no | www.jarlsberg.com;Norway;
+213;Cheeses;Fred Fasting;Export Manager;Unilac Holland;+31 (0)33 - 476 02 30 | +31 (0)6 - 119 164 46;f.fasting@unilac-holland.com;www.unilac-holland.com;Holanda (Países Baixos);Queijos & Laticínios
+214;Cheeses;Tony Alcântara da Silva;Sales Manager;Unilac Holland;T +31 (0)33 - 754 83 14;t.alcantara@unilac-holland.com;www.unilac-holland.com;Holanda (Países Baixos);Queijos & Laticínios
+215;Cheeses;Morten Staal Jonassen;Senior Vice President, Asia;Uhrenholt Sdn Bhd;Tel +603 8934 9906 | Dk +45 7734 7478 | Mob +6012 212 2770;msj@uhrenholt.com;uhrenholt.com;Malasia;Snacks
+216;Cheeses;Davide Allasia;Sales Department;Valgrana S.p.A. (Sapori di Piemonte);Telefono +39 0175 272000 | Fax +39 0175 272099;commerciale@valgrana.com;www.valgrana.com;Italia;Queijos & Laticínios
+217;Cheeses;P.M.A. Bogaard;Sales Manager;Van der Heiden Kaas B.V.;M +31 (0)6 35 11 29 20 | T +31 (0)172 64 56 12;pbogaard@vanderheidenkaas.nl;www.vanderheidenkaas.nl;Holanda (Países Baixos);Queijos & Laticínios
+218;Cheeses;Ies Verloop;Commercial Director International;Vandersterre Holland;T +31 (0)172 606127 | M +31 (0)6 53701450;m.verloop@vandersterregroep.nl;www.vandersterregroep.com;Holanda (Países Baixos);Queijos & Laticínios
+219;Cheeses;Bert Klein;CCO;Vandersterre Groep;T +31 (0)172 606110 | M +31 (0)6 53155969;b.klein@vandersterregroep.nl;www.vandersterregroep.nl;Holanda (Países Baixos);Queijos & Laticínios
+220;Cheeses;José Vicente Cotera;;Quesería Vega de Tordín (La Vega de Tordín S.C.);674 597 738;cotera@vegadetordin.com;www.vegadetordin.com;Espanha;Queijos & Laticínios
+221;Cheeses;Lorenzo Paloni;Export Manager;Vega Mancha (Spanish Cheese Makers);Mobile: +34 647 338 133;lorenzo@vegamancha.com;vegamancha.com;Espanha;
+222;Cheeses;;;Quesos Vega Sotuelamos S.L.;Office Telephone Number: +34 967550279;;vegasotuelamos.com;Espanha;Queijos & Laticínios
+223;Cheeses;Jair Ehrhardt;Export manager;Veldhuyzen Kaas;Phone (+31) 172 - 619226 | Mobile (+31) 6 - 57599710;jair@veldhuyzenkaas.nl;www.veldhuyzenkaas.nl;Holanda (Países Baixos);Queijos & Laticínios
+224;Cheeses;Pim Veldhuijzen;Area Manager Export;Veldhuyzen Kaas;T +31 172 619226 | M +31 6 83976652;pim@veldhuyzenkaas.nl;www.veldhuyzenkaas.nl;Holanda (Países Baixos);
+225;Cheeses;G.H.W.P.J. (Gerbert) van der Mierden;Accountmanager Out-of-Home;Th. Vergeer en Zonen B.V. (Vergeer Holland);M +31 (0)6 55 81 00 43 | T +31 (0)182 39 86 00;gerbert.van.der.mierden@vergeerholland.com;www.vergeerholland.com;Holanda (Países Baixos);Embalaje pequeñas, Baby Edam (anotado a mano)
+226;Cheeses;Leila Barta-Bannour;Export Customer Care / Export Kundenbetreuung;Gebrüder Woerle Ges.m.b.H.;P/T: +43(0)6214/6631-290 | F: +43(0)6214/6631-34;leila@woerle.at;www.woerle.at;Austria;Queijos & Laticínios
+227;Cheeses;Alain Pancelot;Export Manager;Wyke Farms;T: 00 33 160660479 | M: 00 33 607233383;alain.pancelot@wykefarms.com;wykefarms.com;França;Somerset Farming cheese (since 1861)
+228;Cheeses;Henrique Soares de Sá;Presidente, Representante da ILHWA Brasil;ILHWA Co., Ltd.;T +55 19 98118-7821;business@ysplatinamerica.org;www.ilhwa.co.kr;Brasil;
+229;Cheeses;Henrique Soares de Sá;Diretor da YSP Business América do Sul;YSP Business;T +55 19 98118-7821;business@ysplatinamerica.org;www.ysplatinamerica.org;Brasil;Café | Coffee 
+230;Cheeses;Edita Liaugaudienė;Liquid and cheese sales manager for industry;Žemaitijos pienas, SC;T. +370 444 22388 | M. +370 610 11478;e.liaugaudiene@zpienas.lt;www.zpienas.eu;Lituânia;
+231;Cheeses;Rasa Inčerauskaitė-Pivoriūnienė;Area Export Manager;Žemaitijos pienas, AB;M. +370 616 73256 | F. +370 444 74 897;r.incerauskaite@zpienas.lt;www.zpienas.lt;Lituânia;Queijos & Laticínios
+232;EUROPA_Alimentaria2024;Francesco Pirolo;Managing director;Agrigenus (Bioagriworld S.r.l.);mobile +39 335 6250309 | tel. +39 081 5202064;f.pirolo@agrigenus.com;agrigenus.com;Italia;
+233;EUROPA_Alimentaria2024;Jose Antonio Salguero Estevan;;Agroserc S.A. (Prunita);T. (+34) 965 822 200;jasalgueroestevan@agroserc.com;www.prunita.com;Espanha;Dried Fruits & Nuts
+234;EUROPA_Alimentaria2024;José Manuel Pelegrín López;Managing Director / Director General;Agrucapers, S.A. (Delicias Agrucapers);T: +34 968 410 450 | F: +34 968 493 121;direccion@agrucapers.es;www.agrucapers.es;Espanha;Alcaparras, Alho
+235;EUROPA_Alimentaria2024;Jose Luis Gonzalez;;Agrucapers, S.A. (Delicias Agrucapers);T: +34 968 410 450 | F: +34 968 493 121;;www.agrucapers.es;Espanha;Alcaparras, Alho
+236;EUROPA_Alimentaria2024;Francesca Staempfli;Export Department;Alimenco S.R.L.;Telephone: +39 081 28 92 28 | Mobile: +39 344 087 1500;francesca@alimenco.it;www.alimenco.it;Italia;Tomate
+237;EUROPA_Alimentaria2024;Marc Padrell;Gerent;Productos Klam S.A. (Almendrina, Vicens);T.M. +34 691 626 419;marc@almendrina.com;www.almendrina.com;Espanha;Almendras
+238;EUROPA_Alimentaria2024;Loli;Departamento Comercial;Almendrera del Sur (Grupo Almensur);Telf.: +34 952 420 020;comercial@almensur.com;www.almensur.com;Espanha;Almendras
+239;EUROPA_Alimentaria2024;Luis Silvestre Falcón;;Almondeli (authentic mediterranean almonds);Telf. +34 650 44 93 15 / Fax +34 96 686 89 53;luis@almondeli.es;www.almondeli.es;Espanha;Almendras
+240;EUROPA_Alimentaria2024;Renno van Dijk;;Berrico FoodCompany bv;Tel.: +31 (0)320 266055 | Fax: +31 (0)320 266050;renno@berricofood.com;www.berricofood.com;Holanda (Países Baixos);Organic & Conventional Berries (sweetened dried, natural dried, NFC juice, juice concentrate, powders, syrups, puree, IQF/frozen)
+241;EUROPA_Alimentaria2024;Anna Molka;Sales Manager;Bromex (World of Perfect Ingredients);+48 609 733 311;anna.molka@bromex.com.pl;www.bromex.com.pl;Polônia;Bird food, Dried herbs (anotado a mano)
+242;EUROPA_Alimentaria2024;Anna Molka;Marketing and sales manager;Bromex Poland Wolniakowski, Broniarek Spółka Jawna;Tel. +48 609 733 311;anna.molka@bromex.com.pl;www.bromex.com.pl;Polônia;Groats (anotado a mano)
+243;EUROPA_Alimentaria2024;Paweł Broniarek;Board Member;Bromex;+48 604 997 457;pawel.broniarek@bromex.com.pl;www.bromex.com.pl;Polônia;
+244;EUROPA_Alimentaria2024;Sherry;Sales Manager;Bayannaoer City Shengsheng Grain and Oil Co., Ltd;TEL:+86 188 4783 2118;sherrykong@bynessly.com;www.nmgssly.cn;China;Seeds | Sementes
+245;EUROPA_Alimentaria2024;Joost Hendriks;Trading Director;Calconut (supplying a moving world);Tel.: 00 34 696 879 976;sales@calconut.es;calconut.com;Espanha;
+246;EUROPA_Alimentaria2024;Antonio Lupini;;La Pasta di Camerino (Entroterra S.p.A.);Tel. +39 0737 640498 | Cell. +39 334 1977869;antonio.lupini@pastaentroterra.com;www.lapastadicamerino.it;Italia;Pasta
+247;EUROPA_Alimentaria2024;Miguel Ángel Campelo Tenoira;Consejero Delegado;Campelo;+34 639 119 360;miguelcampelo@campelo.net;www.campelo.net;Espanha;
+248;EUROPA_Alimentaria2024;Carlijn Cools;Sales Manager;Baoqing Zhongqing Agricultural & Sideline Products Co., Ltd. (Longdong Zhongqing);Tel: 0086 469 5455868 | Mobile: 0031(0)651311186;carlijn@zhongqingpumpkins.com;www.zhongqingnuts.net;China;Seeds | Sementes
+249;EUROPA_Alimentaria2024;Álvaro Morte Ródenas;Export Area Manager;Aceites Albert S.A. (Cas Albert, since 1959);(+34) 683 701 009;alvaro.m@aceitesalbert.com;www.aceitesalbert.com;Espanha;
+250;EUROPA_Alimentaria2024;Morana Giuseppe;Amministratore Delegato;Casa Morana (Soc. Agr. Ortobarocco srl, Sapori della Tradizione Siciliana);+39 3394296493;info@casamorana.it;www.casamorana.it;Italia;
+251;EUROPA_Alimentaria2024;Salvatore Castrovinci;Amministratore unico;"Castrovinci (Industria Ittica Torrenovese Srl, ""Mari d'Amuri"")";T. +39 392 2599934 / +39 345 2661234;s.castrovinci@castrovincitalia.com;castrovincitalia.com;Italia;
+252;EUROPA_Alimentaria2024;Clara Campa;Key Account Export;Consorcio Grupo;Móvil +34 603 71 65 37 | Tel +34 942 66 00 86;ccampa@grupoconsorcio.com;www.grupoconsorcio.com;Espanha;
+253;EUROPA_Alimentaria2024;Eloy Guillén Ibáñez;;Almendras Cremades (desde 1922);Telf. +34 674 00 09 49 / +34 968 80 41 11 ext.115;eloy@almendrascremades.com;;Espanha;Almendras
+254;EUROPA_Alimentaria2024;Miguel Dias;Export & Sales manager;Fumeiro da Gardunha (Enchidos & Presuntos do Fundão, est. 1982);+351 934961708;miguel.dias@dagardunha.pt;;Portugal;Embutidos
+255;EUROPA_Alimentaria2024;Michel Okkerman;Director Operations;Daily Dairy Holland BV;M: +31(0)6-308 650 57 | T: +31(0)88-040 70 00;michel@daily-dairy.com;www.daily-dairy.com;Holanda (Países Baixos);Queijos & Laticínios
+256;EUROPA_Alimentaria2024;Dr. Cosimo D'Ambrosio;Sales Manager;DAVIA S.p.A. (Gragnano, Industria Conserve Alimentari, since 1984);+39 392 871 7316 / +39 081 8703739 / +39 081 3915329;cosimodambrosio@davia.it;www.davia.it;Italia;
+257;EUROPA_Alimentaria2024;Gianluigi Fodarella;Ufficio commerciale;D&D (formaggi dall'alta Irpinia / Caseificio DED);(+39) 327 2305431 | (+39) 0827 34840;commerciale@caseificioded.it;www.caseificioded.it;Italia;Queijos & Laticínios
+258;EUROPA_Alimentaria2024;Luigi Terzi;Export Manager / Responsabile vendite;Deco Industrie S.c.p.a.;Tel. +39 0545 935626 | Fax 0545 935600 | Cell. 335 8131040;clienti@decoindustrie.it;www.decoindustrie.it;Italia;Panettone
+259;EUROPA_Alimentaria2024;;;DJ Semiconservas S.L. (Delgado, desde 1990);T +34 954 028 037;info@djsemiconservas.com;www.djsemiconservas.com;Espanha;Peixes Enlatados
+260;EUROPA_Alimentaria2024;;;Almendras Donaire;+34 958 557 049;info@almendrasdonaire.com;almendrasdonaire.com;Espanha;Almendras
+261;EUROPA_Alimentaria2024;Aaron Zhang;Sales Supervisor;Anhui Ancheng Bamboo & Wood Tableware Co., Ltd (Eco-Ancheng);86-15209859091;aaron@anchenggy.com;www.anchenggy.com;China;Natural Tableware (vajilla natural)
+262;EUROPA_Alimentaria2024;Margherita Rocco;Area commerciale export;Fiasconaro S.r.l.;Cell. +39 334 1090582 | Tel. 0921.677132;margherita.rocco@fiasconaro.com;www.fiasconaro.com;Italia;
+263;EUROPA_Alimentaria2024;Gandolfo Filippone;;Azienda Agricola Filippone;T +39 329 9715562;info@agricolafilippone.it;www.agricolafilippone.it;Italia;
+264;EUROPA_Alimentaria2024;;;Formia (Qualità & Tradizione Italiana);;;;;Tomate
+265;EUROPA_Alimentaria2024;;;24ICE (Frozen Cocktails);;;24ice.com;;Frozen Cocktails
+266;EUROPA_Alimentaria2024;Janis Muiznieks;Sales Representative;Gamma-A, LTD (Riga Gold);Phone: +371 67615142 | Mobile: +371 29137533;janis.muiznieks@gamma-a.lv;www.gamma-a.lv;Letonia;Peixes Enlatados
+267;EUROPA_Alimentaria2024;Abdlkrim Bouguenna;CEO manager;Golden Export;00216 25 45 40 19 | 00216 98 75 73 36;sales@goldenexport.tn;www.goldenexport.tn;Tunisie;
+268;EUROPA_Alimentaria2024;Saverio Guglielmi;Managing director;Guglielmi Saverio S.N.C. (dal 1954);tel. +39 (0)883591815 | mob. +39 328 681 9586;saverio@olioguglielmi.it;www.olioguglielmi.it;Italia;Azeitonas, Azeite de Oliva
+269;EUROPA_Alimentaria2024;Helen Wu (吴莉莉);Sales;Dalian Happy Fortunes Trading Co., Ltd / Dalian Great Fortunes Imp & Exp Co., Ltd;Tel: 0086-411-82812581 | Mobile/WhatsApp: 0086 18624432819;helen@happyfortunes.com.cn;www.happyfortunes.com.cn;China;Dried Fruits & Nuts
+270;EUROPA_Alimentaria2024;;;Hispano Italiana de Charcutería, S.L.U.;T +34 93 727 77 55 | F +34 93 727 78 40;hispano@hispanoitaliana.com;www.hispanoitaliana.com;Espanha;Charcutería
+271;EUROPA_Alimentaria2024;Martin (马景品);Sales Manager;Jinxiang Jinxiyuan Food Co., Ltd;Mobile/Wechat/Whatsapp: 0086-13563796806;martin@jinxiyuanfood.com;www.jinxiyuanfood.com;China;Desidratados
+272;EUROPA_Alimentaria2024;Josep Ramon Llorens Martínez;Gerent - Director Comercial;Grupo Josep Llorens i Fills (Josep Llorens, Donde el Jamón nace y se hace);T +34 972 233 296 | F +34 972 230 184 | +34 608 921 808;josep@josepllorens.com;www.josepllorens.com;Espanha;Embutidos
+273;EUROPA_Alimentaria2024;Vito Ong;;Xiamen Kenjo Foods Company Limited / Kenjo Enterprise Company Limited (HK);+86 13806099013 (WhatsApp) | (+86) 592 5998503;kenjofoods@hotmail.com / sales@kenjofoods.com;www.kenjofoods.com;China;Enlatados
+274;EUROPA_Alimentaria2024;Patricia Arac;Export Assistant;Kirlioğlu (Ambassador of Fruitful Nature);+90 256 312 68 19 | +90 501 072 80 09;patricia.arac@kirlioglu.com;www.kirlioglu.com;Turquia;Dried Fruits & Nuts
+275;EUROPA_Alimentaria2024;Sadettin Topchu;Export Manager;Kirlioğlu (Ambassador of Fruitful Nature);+90 256 312 68 19 | +90 553 812 81 29;export@kirlioglu.com;www.kirlioglu.com;Turquia;Dried Fruits & Nuts
+276;EUROPA_Alimentaria2024;Nikolay Iliev;Sales Manager;Kronos Agro Trade LTD;Mob: +359 887 656 560 | Phone: +359 44 616 611;n.iliev@kronos.bg;www.kronosagro.bg;Bulgaria;Snack
+277;EUROPA_Alimentaria2024;Raffaele Viscardi;Export Manager;La Bella San Marzano;(+39) 0818590526;info@labellasanmarzano.it;labellasanmarzano.it;Italia;Tomate
+278;EUROPA_Alimentaria2024;Charline Belliard;Export manager;Le Comptoir Colonial (L'expert des épices);Mobile: +33 (0)660 662 307 | Tel: 33(0)2 79 02 75 15;export@lecomptoircolonial.com;www.lecomptoircolonial.com;França;Especiarias
+279;EUROPA_Alimentaria2024;Marta Burgada;Comercial;Aware Food Group;M +34 669 88 70 47;marta.burgada@royal-aware.com;;Espanha;
+280;EUROPA_Alimentaria2024;Frederica Heering;Landbouw Assistent / Assistente Agrícola;Consulaat-Generaal van het Koninkrijk der Nederlanden (Consulado Geral do Reino dos Países Baixos) - Landbouw/Agricultura;T +55 11 3811 3313 | M +55 11 98292 1191 | F +55 11 3819 0903;SAO-LNV@MINBUZA.NL;http://saopaulo.nlconsulado.org;Brasil;
+281;EUROPA_Alimentaria2024;Decostanzi Marco;;Molino F.lli Chiavazza S.p.A. (il Molino Chiavazza, 1955);TEL. +39 011 975606;m.decostanzi@molinochiavazza.it;www.molinochiavazza.it;Italia;Farinha
+282;EUROPA_Alimentaria2024;Juan Eusebio Mateo Segovia;Director Comercial;Bernabé Biosca Alimentación, S.A.U. (El Monaguillo, desde 1919);Telf: +34 96 563 60 00 | Móvil: +34 649 411 572;juan.mateo@bbiosca.com;www.el-monaguillo.com;Espanha;
+283;EUROPA_Alimentaria2024;Manuela Zanin;;Nano srl (Diferente);fax +39 0423 821196;manuela@nanosrl.it;;Italia;
+284;EUROPA_Alimentaria2024;Nick van Kampen;Co-Founder;24ICE;+31 6 17 70 54 54;nick@24ice.com;www.24ice.com;;Frozen Cocktails
+285;EUROPA_Alimentaria2024;Fikret Gençtürk;Export Manager / Pazarlama Müdürü;Nurer İncir Paz. İth. İhr. San Ve Tic. Ltd. Şti.;+90 532 445 77 43 | +90 256 355 52 52;fikret@nurer.com.tr;;Turquia;Dried Fruits & Nuts
+286;EUROPA_Alimentaria2024;Sophie Lee (이소영);Assistant Manager / Oversea Sales Division;OKF Corporation / OKF Beverage Co., Ltd;Tel 82 2 491 1868 | Mobile 82 10 3958 4346;export3@okf.kr;www.okf.kr;Korea;Bebidas
+287;EUROPA_Alimentaria2024;Marco De Pasquale;Direttore Commerciale;AL.OR. s.r.l. Olearia Ortuso s.r.l.;+39 393 8834623;marcodepasquale@ortuso.com;www.ortuso.com;Italia;Tomate
+288;EUROPA_Alimentaria2024;Hetty Liu (刘慧);General Manager / 总经理;Hohhot Ouji International Co., Ltd;Mob: +86 186 0681 7517;ouji@vip.163.com;www.oujint.com;China;
+289;EUROPA_Alimentaria2024;Andrea Margaret Lockhart;Export Manager;Pancrazio S.p.A. (Industria Conserve Alimentari, since 1930);+39.335.6064787 | +39 - 089 461 510;export@pancrazio.it;www.pancrazio.it;Italia;Enlatados
+290;EUROPA_Alimentaria2024;Mazza G. Paolo;General Manager;Mazza Alimentari S.r.l. (Specialità Alimentari);Tel. +39 030 969185 | Fax +39 030 9965705;info@mazzalimentari.com;www.mazzalimentari.com;Italia;
+291;EUROPA_Alimentaria2024;;;Paone Distribuzione S.r.l.;+39 0771 061954;info@paone4you.it;www.paone4you.it;Italia;
+292;EUROPA_Alimentaria2024;Lorenzo Ferraro;;Industria Alimentare Ferraro S.r.l. (Pasta Monte Grappa);Tel. +39 0424 577117 | Fax +39 0424 577188;lorenzo.ferraro@pastamontegrappa.com;www.pastamontegrappa.com;Italia;Pasta
+293;EUROPA_Alimentaria2024;Francesco Serio;Export/Marketing Manager;Pesce Azzurro Cefalù S.r.l. (Antica Lavorazione Artigiana, Mari del Sud, Re Filetto);+39 344 0317226;francesco.serio@pesceazzurro.it;www.pesceazzurro.it;Italia;Peixes Enlatados
+294;EUROPA_Alimentaria2024;Ravi Patel;Export Manager;Pooja Dehy-Foods Pvt. Ltd.;+91 9227979440;info@poojafoods.com;www.poojafoods.com;India;Desidratados
+295;EUROPA_Alimentaria2024;Isabel Oliveira;Executive Coordinator | Market Division;PortugalFoods (Atlantic Essence);Phone: (+351) 913 806 167 | Tlf: (+351) 220 966 021;isabel.oliveira@portugalfoods.org;www.portugalfoods.org;Portugal;Embutidos
+296;EUROPA_Alimentaria2024;Deja Wang;;Qingdao Tiancifeng Foods Co., Ltd;Tel/WhatsApp/WeChat: +86 18561349232;sale@tcffood.com / sales@tcffood.com;www.tiancifengfood.com;China;
+297;EUROPA_Alimentaria2024;Ramon Llop;Presidente;Frutos Secos Ramon Llop, S.A. (Brokers in nuts);Tels. 34 977 326 202 / 34 977 310 364;llop@llop.net;www.llop.net;Espanha;Dried Fruits & Nuts
+298;EUROPA_Alimentaria2024;Miguel Gonzales;Sales Executive;Red River Foods Inc. / Red River Foods Europe GmbH;Mobile +49 0160 9650 9452;gonzalesm@redriverfoods.com;http://redriverfoods.net;Alemanha;
+299;EUROPA_Alimentaria2024;Ana Mira;Account Manager Regional Co.;Regional Co. (est. 1921);T +34 96 618 67 37;ana@regionalco.es;www.regionalco.es;Espanha;
+300;EUROPA_Alimentaria2024;Cinzia Romeo;Export Manager;Rizzoli Emanuelli s.p.a. (Mangiar Bene, dal 1906);ph. +39 0521 211111 | mob: +39 3402732096;c.romeo@rizzoliemanuelli.it;www.rizzoliemanuelli.com;Italia;
+301;EUROPA_Alimentaria2024;Manuela Núñez Pemán;Trade-Marketing;Sadrym (Maestranza);+34 954 69 00 50 | +34 617 57 75 43;sales@sadrym.com;www.sadrym.com;Espanha;
+302;EUROPA_Alimentaria2024;Anita (Lee);Sales Director;Ningxia Senqi Food Industry Co., Ltd;Cell: 0086-13388058169 | Tel: 0086-951-3812017;lee_sales@generalseeds.cn;www.generalseeds.cn;China;Dried Fruits & Nuts
+303;EUROPA_Alimentaria2024;Abbas Mokhtari;Director;Shabnam Sahra Co;Mob: +38 063 972 20 53 | Tel/Fax: +38 044 22 56 368;mokhtary7000@gmail.com;www.shabnamsahra.com;Ucrânia;Raisins
+304;EUROPA_Alimentaria2024;Alireza Mokhtari;Director;Shabnam Sahra Co (Producing & Exports Raisins);Mob: +98 918 151 03 02 | Fax/Tel: +98 851 235 54 40;Shabnamsahraco@yahoo.com;www.shabnamsahra.com;Iran;Raisins
+305;EUROPA_Alimentaria2024;Hugo Ojeda Flores;Director General;D2 Snacks & Foods (Cruji);099 9626 741 | (593-2) 3695 238 / 3695 201;hugo.ojeda@d2snacks.com;www.d2snacks.com;Ecuador;Snacks
+306;EUROPA_Alimentaria2024;Christopher Weyburn;Export Area Manager;Tostaderos Sol de Alba, S.L. (desde 1978);Mobile: +34 699 702 737;cweyburn@soldealba.com;www.soldealba.com;Espanha;Snacks
+307;EUROPA_Alimentaria2024;Ignacio Olmedo;Export Manager;Tostaderos Sol de Alba, S.L. (desde 1978);Mobile: +34 617 503 289;iolmedo@soldealba.com;www.soldealba.com;Espanha;Snacks
+308;EUROPA_Alimentaria2024;Barbara Llados;Export Manager;St Dalfour France;Office: +33 2 54 79 17 07 | Cell: +33 6 42 77 43 93;barbara@stdalfour.fr;;França;Geleias | Jam | Mermeladas
+309;EUROPA_Alimentaria2024;Lorenzo Toffolon;Sales Manager;Steriltom S.r.l. (Polpa di Pomodoro, Special Pizza);Tel. +39 0523 789827 | Cell. +39 345 5623403;sales@steriltom.com;www.steriltom.com;Italia;Tomate
+310;EUROPA_Alimentaria2024;Mathieu Daubert;Export Sales Manager Europe & MEA;Kerex-Terre Exotique (Civilisations & Gastronomie);+33 (0)2 45 34 09 07 | +33 (0)7 85 53 48 98;m.daubert@terreexotique.fr;www.terreexotique.fr;França;
+311;EUROPA_Alimentaria2024;Pablo Cenzano;Export Manager;Trevijano (Comida sincera);Tfno. +34 948 685 829 | Cell: +34 672 156 425;pablo@trevijano.com;www.trevijano.com;Espanha;Chili Pepper
+312;EUROPA_Alimentaria2024;Elkhan Guluzade;General Director;Tural Grup;Tel +995 558 77 23 73 | +994 557 04 91 19;export@turalfood.com / elkhan.guluzade@gmail.com;www.turalfood.com / www.turalgroup.com;Georgia;Dried Fruits & Nuts
+313;EUROPA_Alimentaria2024;Elkhan Guluzade;General Director;Tural Grup;Tel +995 558 77 23 73 | +994 557 04 91 19;export@turalfood.com / elkhan.guluzade@gmail.com;www.turalfood.com / www.turalgroup.com;Georgia;Dried Fruits & Nuts
+314;EUROPA_Alimentaria2024;Mārtiņš Kubliņš;Sales and Customer Relations Manager;UNDA (Highest Quality Canned Fish Making Experts);Ph.: +371 63181117 | Mob.: +371 29468671;martins@unda.lv;www.unda.lv;Letonia;Peixes Enlatados
+315;EUROPA_Alimentaria2024;Mireia Massó;Key Account Manager;Unió Nuts;M. (+34) 636 886 788 | T. (+34) 977 330 055;mireia.masso@uniocoop.com;www.unio-nuts.coop;Espanha;Almendras
+316;EUROPA_Alimentaria2024;Lorenzo Spada;Direzione Vendite Estero;Salumi Villani S.p.A. (arte di famiglia dal 1886);TEL. +39.059.534411 | CELL. +39.348.0180036;lorenzo.spada@villanisalumi.it;www.villanisalumi.it;Italia;Embutidos
+317;EUROPA_Alimentaria2024;George;Sales Manager;Inner Mongolia Zhongxianghuize Commercial Trading Co., Ltd;-18847886543;george8110@163.com;www.zxhzfoodstuff.com;China;Seeds | Sementes
+318;Nacionais;Sayed Saleh;Trade;Agrofine Alimentos;+55 11 9844 49758;sayed@agrofine.co / Agrofine.trading@gmail.com;www.agrofine.co;Brasil;
+319;Nacionais;Valnei Santos;Importer;All Brazilian Imp. Exp. Inc (Cerpa Export, Finest Premium Beer);Ph +1 954 523-8134 | Cell +1 954 296-3935;valnei@allbrazilian.net;www.allbrazilian.net;Estados Unidos;Cerveja
+320;Nacionais;;Comercial;Alto da Aparecida (Carvalhos - MG);(11) 91453-7458;altodaaparecidamg@gmail.com;;Brasil;
+321;Nacionais;Douglas Gomes de Oliveira Silva;Gerente Nacional de Vendas;AmendoPRO (Uma marca PROTEICA);(14) 99615-4906;douglas@amendopro.com.br;amendopro.com.br;Brasil;Dried Fruits & Nuts
+322;Nacionais;Debora Moreira Feitosa;Coordenação de Relacionamento com Clientes / Customer Relations Division;ApexBrasil;Tel: +55 (61) 2027 0559;debora.feitosa@apexbrasil.com.br;www.apexbrasil.com.br;Brasil;
+323;Nacionais;Nelson José Hyppolito;Superintendente Comercial;Banco Sofisa;Cel: (55 11) 98154 9980;nhyppolito@sofisa.com.br;www.sofisa.com.br;Brasil;Serviços
+324;Nacionais;Bruno Zonzini;;Estúdios Basement (Produtora Audiovisual e Espaço de Eventos);(11) 94731-2690;estudiosbasement@gmail.com;www.estudiosbasement.com;Brasil;Serviços
+325;Nacionais;Marcos Beccarini;;Beira-Alta (desde 1937);t. +55 11 99330 0208;marcos.beccarini@beiraaltabrasil.com;beiraaltabrasil.com;Brasil;
+326;Nacionais;;;Box do Santista (Peixes & Frutos do Mar, +40 anos de tradição);(13) 3261.3858 / 3261.1483 / 7803.0948 ID 129*15600;;www.boxdosantista.com.br;Brasil;Peixes e frutos do mar
+327;Nacionais;Carol Coelho;;BrasFlex (Comex & Logística);81-98833-9251 | 81-3204-1544;carol.coelho@brasflexbr.com;www.brasflexbr.com;Brasil;Serviços
+328;Nacionais;João Luiz Serpa Braz;;BSCompany;+55 21 99346-8145;sale@bscompanybrasil.com;;Brasil;Serviços
+329;Nacionais;M. Fernando B. da Silva;;Capsum Nigrum Ingredientes Ltda.;FONE: (11) 2545-0300;fernando@capsum.com.br;www.capsumnigrum.com.br;Brasil;
+330;Nacionais;Carolina Pepice Figueiredo;Advogada (OAB/SP 452102);Carolina Pepice Advogados;(11) 989850513;carolinapepice@adv.oabsp.org.br;;Brasil;
+331;Nacionais;Lucas Oliveira;Commercial manager;Cione - Companhia Industrial de Óleos do Nordeste (desde 1962);+55 85 9699.2323 | +55 85 3311.6825;lucas@cione.com.br;www.cione.com.br;Brasil;Óleos
+332;Nacionais;Leonardo Seixas;Diretor Comercial;CL Transportes / New Route Transporte e Logística;Cel: 13 97410-6536 | Fixo: 13 3219-6802;leonardo@cltrans.com.br / diretoria@newroutelogistica.com.br;cltrans.com.br / newroutelogistica.com.br;Brasil;
+333;Nacionais;;;Competec TV (Serviço Técnico Especializado - LG e Samsung);11 4117-4288;;www.competectv.com.br;Brasil;Serviços
+334;Nacionais;Alexis Bustelo;Sales Director;Conexa Foods (Agribusiness);Mobile (+54 911) 4042-1176 | Office (+54 11) 4871-7700;abustelo@conexafoods.com;www.conexafoods.com;Argentina;
+335;Nacionais;Cesar Augusto Vazquez;Managing Director;COPA Logística Internacional;Phone: +55 (11) 3805.1070 | Mobile: +55 (11) 99219.7687;vazquez@copalogistica.com.br;www.copalogistica.com.br;Brasil;Serviços
+336;Nacionais;Tulio Dias;Sales Executive;COPA Logística Internacional;Phone: +55 (11) 3805.1070 | Mobile: +55 (11) 95091.7374;tulio.dias@copalogistica.com.br;www.copalogistica.com.br;Brasil;Serviços
+337;Nacionais;Lenice Maria Santos Oliveira;;Daniele Banco;+55 (11) 3511-1333 | +55 (11) 95071-1770 (anotado a mano: Cel 989848142);lenice.oliveira@danielebanco.com.br;danielebanco.com.br;Brasil;Serviços
+338;Nacionais;Cristobal Cabrera Filho;Comercio Exterior e Regionais / International Trade Manager;Dia % (Marca Própria);Tel: +55-11-3886-8038 | Cel: +55-11-97601-3987;cristobal.cabrera@diagroup.com;www.diacorporate.com;Brasil;
+339;Nacionais;Daniel Carbajal;Diretor - Franqueado da Doutores da Web;Doutores da Web (Marketing digital);+55 (11) 93800-2155 | +55 (11) 4862-1063;daniel.carbajal.doutoresdaweb@gmail.com;www.doutoresdaweb.com.br;Brasil;
+340;Nacionais;Hugo Funaro;;Dias de Souza Advogados Associados;Tel.: 55 11 3069.4277;hugo.funaro@dsa.com.br;;Brasil;
+341;Nacionais;Henrique Lizot;;Easter (Vinhos);11 5531 1182 | 11 99329 6048;henrique@eastervinhos.com.br;www.eastervinhos.com.br;Brasil;Vinhos
+342;Nacionais;Eduardo Meireles;Diretor Comercial;Agência 360 VC (Digital - Trade - Eventos);(11) 96174-7783;eduardo@agencia360vc.com;www.agencia360vc.com;Brasil;
+343;Nacionais;Ricardo Veiga;Comercial;ELO Soluções Logísticas Integradas;47 3065.1251 | (11) 99611.5107;ricardo.veiga@eloarmazenagem.com.br;eloarmazenagem.com.br;Brasil;Serviços
+344;Nacionais;Mario Sergio S. Rodrigues;;Empório Frei Caneca (Bebidas do Mundo, Shopping Frei Caneca);11 99948.5680 | Fone: 11 3472 2082;mariosep@freicanecashopping.com.br;www.emporiofreicaneca.com.br;Brasil;Bebidas
+345;Nacionais;Cristhiane e Isaac;Administrador e Gestor Financeiro;Estância Vó Zilda (Sabor do campo em sua mesa);(67) 98456-5363;;;Brasil;Queijos & Laticínios
+346;Nacionais;Marco Zanette;Sócio - Assessor de Investimentos;Farol Capital Investimentos (Agente Autônomo de Investimentos - XP Investimentos);+55 (11) 9 7952-6000;marco.zanette@farolcapital.com.br;www.farolcapital.com.br;Brasil;
+347;Nacionais;Joaquim / Ricardo;;Fazenda Generosa (Andrelândia - MG);(11) 97772-5335 - Joaquim | (32) 99115-8280 - Ricardo;;;Brasil;Queijos & Laticínios
+348;Nacionais;Borja Fernández;Internacionalización y Política Comercial;FIAB (Spanish Food and Drink Industry Federation);+34 91 411 72 11 - ext. 3042;b.fernandez@fiab.es;fiab.es;Espanha;
+349;Nacionais;Mateus Fuhr;Comercial;Flowbar (Naturais);(51) 98118-2866;contato@flowbar.com.br;;Brasil;Barra Cereal (anotado a mano)
+350;Nacionais;Fred Lemos;Gerente Comercial Sul/Sudeste;FTRADE Brasil (Soluções em Comércio Exterior);WhatsApp 11 9 7570-8683;fred.lemos@ftrade.com.br;ftrade.com.br | fortallog.com.br;Brasil;
+351;Nacionais;Cesar Saber;;Incuba Pack (Embalagem Faz Negócio, Serviços de Envase);(11) 98115-5300;cesar@incubapack.com.br;incubapack.com.br;Brasil;
+352;Nacionais;Eric Behs;;Invista (Plataforma Empresas, C6 Bank);Tel +55 11 3058 6300 | Cel +55 11 98650-5215;ericb@invistafidc.com.br;www.invistafidc.com.br;Brasil;
+353;Nacionais;James Alberto Faria;;InvistaFIDC;Tel 55 11 3058-6300 | Cel 55 11 98175-6686;jamesf@invistafidc.com.br;www.invistafidc.com.br;Brasil;
+354;Nacionais;Diego Trevizan;;Jeito de Mato (Queijo Artesanal, desde 2014);WhatsApp 17 99702.6383;;Instagram @queijariajeitodmato;Brasil;Queijos & Laticínios
+355;Nacionais;Débora Herrero;;Jeito de Mato (Queijo Artesanal, desde 2014);WhatsApp 17 99615.2576;;Instagram @queijariajeitodmato;Brasil;Queijos & Laticínios
+356;Nacionais;Kleber Santos;Comercial;KSE (Importação e Distribuição);+55 (11) 2539 0275 | +55 (11) 99474 0939;kleber@ksebr.com.br;www.ksebr.com.br;Brasil;
+357;Nacionais;Gabriele Arruda;;Lotus;T. 11 2385-1016 | C. 11 96553-3735;gabriele.arruda@lotus.com.br;www.lotus.com.br;Brasil;
+358;Nacionais;Simone C. Ferreira;;Lotus;T. 11 2385-1016 | C. 11 96764-2820;simone@lotus.com.br;www.lotus.com.br;Brasil;
+359;Nacionais;Larissa A. Cunha Barriento;Foreign Trade Analyst;Marilan;Ph.: +55 14 2105 6060;larissa.barriento@marilan.com / sales@marilan.com;www.marilan.com;Brasil;
+360;Nacionais;Ignacio Aguilar;Sales Manager;MCM Foods (a global foods company);(+56 9) 9837 5137;sales@mcmfoods.com;www.mcmfoods.com;Chile;
+361;Nacionais;Vanessa Palozzi;;Mulheres de Quarenta;11 97214.5524;mrkt.mulheresdequarenta@gmail.com;www.mulheresdequarenta.com.br;Brasil;
+362;Nacionais;;;Marques e Marques (Funilaria e Pintura Automotiva);(11) 93756-8428 | (11) 5535-1903 | (11) 5564-9898;;www.oficinamarques.com.br;Brasil;Serviços
+363;Nacionais;;;Militão da Canastra - Queijo do Reginaldo (Fazenda Campo Belo, Medeiros - MG);(37) 98836.1790;militaodacanastra@gmail.com;;Brasil;Queijos & Laticínios
+364;Nacionais;Reginaldo Miranda;Produtor - Região da Canastra;Militão da Canastra (Fazenda Campo Belo);(37) 98836.1790;militaodacanastra@gmail.com;;Brasil;Queijos & Laticínios
+365;Nacionais;Daniel Han Sol Kim;Sales Analyst | International Trading Desk;Mirae Asset (Brasil) CCTVM;T (11) 2789 2171 | M (11) 97553 2155;daniel.kim@miraeinvest.com.br / mesainternacional@miraeinvest.com.br;;Brasil;
+366;Nacionais;Patricia Vale;;Multiplica (Crédito & Investimento);T (11) 2578-5628 | C (11) 9 8648-2668;patricia.vale@grupomultiplica.com.br;www.grupomultiplica.com.br;Brasil;
+367;Nacionais;;;Norma Audi Consultoria Empresarial;PH: 55 11 99931.5712 | FAX: 55 11 5561.8022;norma.audi@uol.com.br;;Brasil;
+368;Nacionais;Jailson de Souza;Consultor de Negócio;Norte Sul (Transporte, Armazenagem, Distribuição);(81) 3092.7878 | Tim 9 9976-8899;jailson@nortesullogistica.com.br;www.nortesullogistica.com.br;Brasil;
+369;Nacionais;Fábio Gomes de Faria Delfino;Vendedor;NPZanchetta Cerealista;WhatsApp 16 99704-0687;atendimento@npzanchetta.com.br;www.npzanchetta.com.br;Brasil;Dried Fruits & Nuts
+370;Nacionais;Francisco Homsi;Diretor Comercial / Commercial Director;Oba Hortifruti (Grupo Fartura de Hortifruti Ltda);+55 19 99696-4879;francisco.homsi@redeoba.com.br;www.obahortifruti.com.br;Brasil;
+371;Nacionais;Elias J. Andrade;;E.Andrade International Trade and Business / OBAI Comercio Internacional;WhatsApp (15) 99762-9696;eandrade.importexport@gmail.com;;Brasil;
+372;Nacionais;Geraldo Maciel Jr.;Diretor;Paladar de Minas;32 9 8417-3407;diretor@paladardeminas.com.br;www.paladardeminas.com.br;Brasil;
+373;Nacionais;Glaucienne Lanna Gonçalves Maciel;Diretora;Paladar de Minas;32 9 8409-6554;diretora@paladardeminas.com.br;www.paladardeminas.com.br;Brasil;
+374;Nacionais;Marcos Tateishi;Gerente Comercial;Grupo Piracanjuba;Tel.: +55 (62) 3946-8300 | (62) 9 9942-6795;marcos.tateishi@piracanjuba.com.br;www.grupopiracanjuba.com.br;Brasil;
+375;Nacionais;Diego Lima;;Planefisco (Planejamento e Consultoria);(11) 9 8114-2727 | (11) 5112-9200;diego@planefisco.com.br;;Brasil;
+376;Nacionais;Mariana Nobrega;Gerente Comercial;Portão de Cambuí;WhatsApp 35 99924-7786;comercial@portaodecambui.com.br;portaodecambui.com.br;Brasil;
+377;Nacionais;Adriano Cabral;;Qualitá Trade;+55 41 8403-2860;qualita@qualitatrade.com;www.qualitatrade.com;Brasil;
+378;Nacionais;;;Queijaria Bella Vista;WhatsApp 14 99762-1498;;Instagram @queijariabellavista;Brasil;Queijos & Laticínios
+379;Nacionais;Alessandra Nogueira;;Rangel Logística Brasil (Rangel Logistics Solutions);M. (+55)(11) 97596 0770 | T. (+55)(11) 2849 7992;alessandra.nogueira@rangel.com;www.rangel.com;Brasil;
+380;Nacionais;Rafael Borlenghi Ruas;;RBR Transporte & Logística;WhatsApp 11 99644-3808;rafael@rbrtransportes.com;www.rbrtransportes.com;Brasil;
+381;Nacionais;Rubens Reginatto Junior;Diretor;Reginatto Assessoria Empresarial;11 3467 3742 | 11 98291 6062;rubens@reginattoassessoria.com.br;www.reginattoassessoria.com.br;Brasil;
+382;Nacionais;Leonardo Alvarez;Comercial;Associação Ricoy;(11) 9 6080-4411 | (11) 4010-0176;leonardo.alvarez@ricoy.com.br;www.ricoy.com.br;Brasil;
+383;Nacionais;Clarice Nagata;Account Coordinator - Trade & Regulatory Affairs, South America Representative;River Global (Official USDEC Representative in South America);Phone: +55 11 2528-5829 | Cell: +55 11 99716-1919;cnagata@riverglobal.net;www.riverglobal.net;Brasil;Queijos & Laticínios
+384;Nacionais;Clarice Nagata;Regulatory Affairs;River Global (Your Partner in South America);+55 11 2528-5829;cnagata@riverglobal.net;www.riverglobal.net;Brasil;
+385;Nacionais;Leonardo Silveira;Trade & Marketing;River Global (A full-service trade and marketing consulting company);t: +55 11 3051-9080 | c: +55 11 99667-6610;lsilveira@riverglobal.net;www.riverglobal.net;Brasil;
+386;Nacionais;;;Família Rossato (O Sabor da Fazenda - Produto Artesanal);15 99789-1835;;;Brasil;Queijos & Laticínios
+387;Nacionais;Marcos Ribeiro Rossilho;;Rossilho & Advogados Associados;19 99604.6566;marcos@rossilho.adv.br;www.rossilho.adv.br;Brasil;Serviços
+388;Nacionais;Lucas M. Freire Rossilho;;Rossilho & Advogados Associados;19 98135.4423;lucas@rossilho.adv.br;www.rossilho.adv.br;Brasil;
+389;Nacionais;Ricardo Leal;;R Trade (Food Trader);+55 (21) 99809-7709 | +55 (21) 3546-0869;rtrade@terra.com.br;www.rtrade.net.br;Brasil;
+390;Nacionais;Cesar Saber;;SaberPack (Sistemas de Embalagem);(11) 98115-5300;cesar@saberpack.com.br;saberpack.com.br;Brasil;
+391;Nacionais;Ryan Gillespie;Vice President of Marketing;Sartori;920.449.7964 office | 608.335.2301 cell;rgillespie@sartoricheese.com;www.sartoricheese.com;Estados Unidos;Queijos & Laticínios
+392;Nacionais;Sam Allison;Director of Global Sales;Sartori;+1.920.449.7937 office | +1.920.207.9912 cell;sallison@sartoricheese.com;www.sartoricheese.com;Estados Unidos;Queijos & Laticínios
+393;Nacionais;Claudio Sillos;;Grupo Sifra;+55 11 5091-4800 | +55 11 3512-3600 | +55 11 97677-3100;crsillos@gruposifra.com.br;gruposifra.com.br;Brasil;
+394;Nacionais;Eduardo Falcão de Carvalho;Diretor Presidente;Estância Silvania (SilvaniA2 Laticínios Artesanais - Gir Leiteiro PO);WhatsApp +55 12 99713-7144;estanciasilvania@gmail.com;www.estanciasilvania.com.br;Brasil;Queijos & Laticínios
+395;Nacionais;Ana Maria de Araujo;Depto. Comercial;Sul Atlântico Transportes (SABRA);Telefone/WhatsApp (11) 3123-4500;comercial@sulatlantico.com.br;www.sulatlantico.com.br;Brasil;
+396;Nacionais;Eduardo Bandeira;Diretor Comercial;Terra Brasil Doces Premium;(19) 9 9772-3369;eduardo.bandeira@biofun.com.br;www.terrabrasildoces.com.br;Brasil;Doces de banana
+397;Nacionais;Jéssica Toledo;Executiva de Soluções de Negócios;TOTVS;+55 11 99564 4965;jessica.toledo@totvs.com.br;;Brasil;Serviços
+398;Nacionais;Federica Sanfilippo;;Transitex Italia S.R.L. (Yilport Holding Inc.);Tel. +39 010 24 61 127 | Telm. +39 392 99 57 938;federica.sanfilippo@transitex.it;www.transitex.com;Italia;
+399;Nacionais;Ricardo Baraldi;;Transitex do Brasil Serv. Logística Ltda (Yilport Holding Inc.);Tel.: +55 11 3262-1815 | Cel.: +55 11 94000-9488;ricardo@transitex.com.br;www.transitex.com;Brasil;
+400;Nacionais;Carolina Nascimento;Associate Partner, South America Representative;U.S. Dairy Export Council (River Global);Phone: +55 11 3051-9080 | Cell: +55 11 97618-0831;cnascimento@riverglobal.net;www.usdec.org;Brasil;Queijos & Laticínios
+401;Nacionais;Miguel Coutinho;Coord. Comercial;Usibras (Dunorte);+55 (85) 4006.8900 | WhatsApp +55 (11) 94547.3268;miguel.coutinho@dunorte.com;www.usibras.com;Brasil;Cashews
+402;Oriente;Eddy Yueh;President;A.C.S.T. Chemical (Kunshan) Co., Ltd / A.C.S.T. Plywood (Kunshan) Co., Ltd / Xinjiang A.C.S.T. Food Company Co., Ltd;Tel: 86-512-57428812 | Fax: 86-512-57422742 | Mob: 86-13801951840;int@acstfood.com;;China;
+403;Oriente;Mahmoud Taha;Agricultural Sector Manager;AFRO Premium Dates;Mobile: (+20) 110 110 9330 | Whatsapp: (+20) 10000 34859;dates@afro-group.com;www.afro-group.com;Egito;Dates (Tâmaras)
+404;Oriente;Marian Pham Hoang Ngan;Sales Director;Agrikim Import & Export JSC (Viet Nam Spices);+84 966 55 66 22;marian@agrikim.com;www.agrikim.com;Vietnam;Spices
+405;Oriente;Anoop Khandelwal;;Agrim Pte Ltd;t: +65 6638 8646 | m: +65 9009 5853;agrim@agrimltd.com;www.agrimltd.com;Singapore;
+406;Oriente;;;Agro-TL (Agro Trade Lubny);+38 (066) 956-18-55 | +38 (066) 913-18-18 | +38 (067) 869-52-47;info@agrotl.com;www.agrotl.com;Ucrânia;Dried Fruits & Nuts
+407;Oriente;Mohammad Amin;Managing Director;AHT (Since 1963) - Queen's Diamond / Majestic Life Dried Fruit & Nuts;Tel: (+98 21) 2621 7163 | Fax: (+98 21) 2621 7162 | Mobile: (+98) 912 111 2867;info@sahravi.com / info@AHT.ir;www.sahravi.com | www.AHT.ir;Iran;Dried Fruits & Nuts
+408;Oriente;Yu Da Ling;Vice General Manager;Anhui Tea Imp. & Exp. Company Ltd / Linquan Junjie Air-Dried Vegetables Co. Ltd;Tel: (0551)2651530(0)2619893(H) | Mobile: 13905698906 | Fax: (0551)2654664 2654110;andywzq@hotmail.com / ydl@ahtea.com;www.ahcy.co.com;China;Tea, dried vegetables
+409;Oriente;Laila El Saedy;Managing Director;Licioso by Al Awael (Since 1992);Phone: (+202) 23787797 | Fax: (+202) 23787796 | Mob: (+202) 0100 688 5404;info@al-awael.com;;Egito;Azeitonas, Azeite de Oliva
+410;Oriente;Hashini Kalansuriyaarachchi;Regional Manager - International Trading;Adamjee Lukmanjee & Sons (Pvt) Ltd;Phone: +94-11-2445421 | Fax: +94-11-2445426 | Mobile: +94 773-633249;trading@adamjeelukmanjee.com;www.adamjeelukmanjee.com;Sri Lanka;
+411;Oriente;Murtaza A. Lukmanjee;;Adamjee Lukmanjee & Sons (Pvt) Ltd;Direct: +94-11-2448537 | Gen: +94-11-2445421 Ext-201 | Fax: +94-11-2445426;adamjee@adamjeelukmanjee.com;www.adamjeelukmanjee.com;Sri Lanka;
+412;Oriente;Bhavik V. Visaria;;Amar International;Office: (91-22) 2410 5800/01/02 | Fax: (91-22) 2410 5804;amarintl@vsnl.com;www.amarintl.net;India;
+413;Oriente;Anna Kevkhishvili;CEO;Anigozi (Georgian Walnuts - Walnut Processing Factory);+995 322 88 80 88 | +995 592 70 00 10;ana@anigozi.com;www.anigozi.com;Georgia;Walnuts
+414;Oriente;A. Hakan Özsoy;;Arı Susam San. ve Tic. A.Ş. (Committed to sesame seeds);Tel: +90 (232) 441 69 64 | Fax: +90 (232) 489 94 55 | Mobile: +90 (532) 287 99 47;hakan@arisusam.com;www.arisusam.com;Turquia;Seeds | Sementes
+415;Oriente;Begüm Özsoy;;Arı Susam San. ve Tic. A.Ş. (Committed to sesame seeds);Tel: +90 (232) 441 69 64 | Fax: +90 (232) 489 94 55 | Mobile: +90 (533) 559 02 03;begum@arisusam.com;www.arisusam.com;Turquia;Seeds | Sementes
+416;Oriente;Hoang Xuan Tran;Vice manager of agricultural products;Artexport Vietnam (Handicraft and Art Articles Export-Import Corporation);Tel: (84-24) 38 256 456 | Fax: (84-24) 38 259 275 | Mobile: 84-(0) 903 448 792;thomas@artexport.com.vn / tranartexport@gmail.com;www.artexport.com.vn;Vietnam;Cassia
+417;Oriente;Julia Do;Director of business development;Artexport Vietnam (Handicraft and Art Articles Export-Import Corporation);Tel: (84-24) 38 266 579 | Fax: (84-24) 38 259 275 | Mobile/Viber/WhatsApp: +84 988766815;yendth@artexport.com.vn;www.artexport.com.vn;Vietnam;
+418;Oriente;Pranav Mehta;Director;Artis Commodities DMCC (Agro Commodities, Fresh Fruits & Vegetables, Food & Beverages);Mobile: +971-50-1196514 | Tel: +971-4-3998541/42 | Fax: +971-4-3998540;pranav@artiscommodities.com / trade@artiscommodities.com;www.artiscommodities.com;Emiratos Árabes Unidos;Especiarias
+419;Oriente;Dr. A.S. Sabaratnam;Managing Director;A.S. Agri (Exporters of Agri Products);+9477 32 90 419 | +9432 46 50 202;saba@asagriexports.lk;www.asagriexports.lk;Sri Lanka;
+420;Oriente;Yolanda Garduno;General Manager - Sales (Southern Europe);Global Green International NV (Avantha Group Company - Global Green Group);T: +32 53 76 78 25 | F: +32 53 78 45 70 | M: +33 608 696 133;yolanda.garduno@globalgreengroup.com;www.globalgreengroup.com;Bélgica;Conservas
+421;Oriente;Mary Chen (陈杰);General Manager;Beijing Reputation Foreign Trade and Development Co., Ltd;Tel: 0086 10 84845809 | Fax: 0086 10 84848621 | Mobile: 18612560083;bj-reputation@163.com;www.bjreputation.com;China;
+422;Oriente;Phạm Thị Kiều Khuyến;Trưởng phòng kinh doanh / Sales Manager;Bến Tre Import Export Joint Stock Corporation (Betrimex);ĐT: 075.3822509 / 3822287 Ext: 4011 | Fax: 075.3829706;khuyenptk@betrimex.com.vn / kieukhuyen303@yahoo.com.vn;www.betrimex.com.vn;Vietnam;
+423;Oriente;Duong Doan (Dee);Marketing Manager;Betrimex (Ben Tre Import Export Joint Stock Corporation - World's best choice in coconut);(+84) 369 649 191;duongdva@betrimex.com.vn;betrimex.com.vn;Vietnam;Coco
+424;Oriente;Merita Dunisa;İthalat - İhracat Müdürü / Export - Import Manager;Birlik Baharat San. Tic. Ltd. Şti.;Tel: 0232 457 12 91 - 458 96 56 - 457 34 59 | Faks: 0232 459 76 39;info@birlikbaharat.com.tr;www.birlikbaharat.com;Turquia;
+425;Oriente;Jesús Baldomero Cañedo A.;;Campo El Jon, S. de P.R. de R.L. (Tutuli Farms - Fresh Medjool Dates);O. +52(686) 580-2695 | C. +52(686) 270-0827;E.campoeljon@gmail.com;www.campoeljon.com;México;Dates (Tâmaras)
+426;Oriente;Kıvanç Akkoyun;Export Manager;Çancılar Tic. Ltd. Şti. (Turkish Sultanas);t: +90 (236) 768 18 18 | f: +90 (236) 768 18 18 / Ext:114 | m: +90 (536) 659 12 12;kivanc@cancilarfood.com;www.cancilarfood.com;Turquia;
+427;Oriente;Hüseyin Teker;Chairman / Yönetim Kurulu Başkanı;Çancılar Tic. Ltd. Şti. (Turkish Sultanas);t: +90 (236) 768 18 18 | f: +90 (236) 768 18 18 / Ext:114 | m: +90 (532) 436 35 14;huseyin@cancilarfood.com;www.cancilarfood.com;Turquia;
+428;Oriente;Janis Ong Yiu;Vice President;Celebes Coconut Corp.;Tel: +63 85 342-7777 | Fax: +63 85 342-8888;janis.ongyiu@celebes.com;;Filipinas;Coco
+429;Oriente;Sabrina A. Gloria;Sales Section Manager;Century Pacific Agricultural Ventures Inc. (Aqua Coco, Coco Daily Organic, Century);Mobile: +63917-571-4690;saguado@centurypacific.com.ph;https://cpavi.com.ph;Filipinas;Desiccated Coconut
+430;Oriente;Thomas Flater;Sales Manager;China Food Ingredients GmbH i.G.;p: +49.4121.262 23-0 | f: +49.4121.262 23-29 | m: +49.171.682 34 69;t.flater@cfi-gmbh.eu;www.cfi-gmbh.eu;Alemanha;
+431;Oriente;Gu Xiaoqin;Vice General Manager;Yancheng Dadi Foods Co., Ltd (Dadi Foods Ingredients);Tel: 0086-515-86025011 / 86025277 | Fax: 0086-515-88366693 | M.P: 0086-13813438388;gxqdadi@vip.163.com;www.yanchengdadi.com;China;Vegetales y frutas air dried y freeze dried (espárrago, manzana, brócoli, pimiento, zanahoria, cebollín, repollo, apio, chile, cilantro, ajo, jengibre, ejote, rábano picante, puerro, champiñón, cebolla, calabaza, pimentón, papa, guisante, espinaca, tomate, maíz)
+432;Oriente;Gehad Gamal;Senior Account Sales Manager;Dakahlia Agricultural Development Co.;Tel: +20 2 23054802 | Fax: +20 2 24198371 | Mobile: +2 01002105907;gehad.gamal@dakahlia.com;www.dakahliaproduce.com;Egito;
+433;Oriente;Cao Guozhen (曹国珍);;Dalian Global Link Trading Co., Ltd;Tel: +86 411 85811167 / 85811197 | Fax: +86 411 85811200 | Mobile: +86 181 04081830;dlglt200@126.com;http://globallinkmushroom.en.alibaba.com;China;Mushrooms | Cogumelos | Hongos
+434;Oriente;莫志浩 (Daniel Mok);General Manager;Wuzhou Hengsheng Trading Co., Ltd (Danielmok);Tel: 0086-774-2833008 | Fax: 0086-774-3836662 | Mobile: 0086-18607747812 / 0086-13977496326;ty2199@gmail.com;http://hsspice.en.alibaba.com;China;Especiarias
+435;Oriente;Döne Daşkan;Sales & Export Manager;Daşkan Tarım ve Plastik Ürünleri San. ve Tic. A.Ş.;+90 236 345 17 86 ext:115 | +90 531 378 65 02 | +90 236 345 17 86;daskan@daskantarim.com.tr;www.daskantarim.com.tr;Turquia;
+436;Oriente;Nurettin Tarakçıoğlu;;Defne Dış Ticaret ve Tarım Ürünleri A.Ş. (Defne Spices);GSM: +90 (533) 631 11 86 / +90 (533) 920 85 33 | Tel: +90 (232) 877 22 70/71 | Fax: +90 (232) 877 22 72;defne@defnespices.com;www.defnespices.com;Turquia;Especiarias
+437;Oriente;Paulus Wijaya Purwanto;Marketing Export;PT. Sari Segar Husada (Member of Sungai Budi Group - Delcoco);p: +62 21 521 3383 | m: +62 821 1158 4521;paulus.purwanto@sarisegarhusada.com;www.delcoco.co.id;Indonesia;
+438;Oriente;Damian Wojtania;Foreign Trade Manager;Grupa Diaspolis Sp. z o.o.;Mob: +48 570 728 007;d.wojtania@diaspolis.pl;diaspolis.pl;Polônia;
+439;Oriente;Edward Pan (潘琛);Vice President;Qingdao Dequan Food Co., Ltd;Tel: +86-532-88222166 | Fax: +86-532-88222167 | Mobile: +86-18661683683;edwardpan@dq-food.com;www.dq-food.com;China;Walnuts
+440;Oriente;Betty Qi;Assistant;DSY (Linyi Deshengyuan Foodstuffs Co., Ltd / Yantai Deshengyuan International Trade Co., Ltd);Tel: +86 535 6217751 | Cell: +86 15589618570 | Fax: +86 535 6614055;export@dsy-china.com;www.dsy-china.com;China;Desidratados
+441;Oriente;Sophia Liu;Sales Manager;DSY (Linyi Deshengyuan Foodstuffs Co., Ltd / Yantai Deshengyuan International Trade Co., Ltd);Tel: 0086-535-6217751 | Fax: 0086-535-6614055 | Mobile: 0086-13964595632;sophialiu@dsy-china.com;www.dsy-china.com;China;Desidratados
+442;Oriente;Mohamed Elkhatib;Commercial Consul / Head of the Commercial Office;Egyptian Embassy - Economic and Commercial Office in São Paulo;Phone: +55 11 3284-8184 / 3287-7055 | Fax: +55 11 3283-5187;saopaulo@ecs.gov.eg / emb.egito@terra.com.br;www.ecs.gov.eg;Egito;
+443;Oriente;Elene Gvatua;Sales & Marketing Manager;Ellen & Company 2015 (Hazelnut Production);+995 574 455 554 | +995 599 782623;elene_gvatua@hotmail.com;ellenandcompanynuts.com;Georgia;Hazelnuts
+444;Oriente;Mete Gümüştekin;Export Director;Entegre Gıda San. A.Ş. (Food Industry since 1990 - Dried Fruits, Nuts & Kernels, Dried Apricots);Tel: +90 422 381 01 31 | Fax: +90 422 381 01 34 | Gsm: +90 532 506 93 13;entegre@tnn.net;www.entegre.com;Turquia;Dried Fruits & Nuts
+445;Oriente;Fatih Eroğlu;Export Manager;Fehmi Eroğlu Dış Ticaret Anonim Şirketi (Eroğlu Foods - Dried Fruits, Fresh Fruits, Frozen Fruits, Nuts);+90 530 114 10 44;sales@eroglufoods.com;www.eroglufoods.com;Turquia;Dried Fruits & Nuts
+446;Oriente;Paula Windus;Verkaufs- und Marketingleiterin;Ertürk Food Industries Limited (Gold Crest Brand);Phone: +90 236 266 43 00 (Pbx) | Fax: +90 236 266 43 03 | Mobile: +90 532 472 26 50;sales@erturk.com;www.erturk.com;Turquia;
+447;Oriente;Linda Zhou (周莹);Sales Specialist;Xuzhou Liming Food Co.,Ltd / Jiangsu Dongfang Liming International Trade Co.,Ltd (E-Sunrise Group);Tel: 0086-516-83903929-813 | Fax: 0086-516-83903222 | Mobile: 13952187771;linda@limingro.com;www.dflmgro.com;China;
+448;Oriente;Mohamed Eissa;Chairman;Fruit Land Co (Sky Olivey, Oro brand);Mobile: (+2) 010 000 574 72 / (+2) 012 744 425 72;m.riyad@fruitland-eg.com;www.fruitland-eg.com;Egito;
+449;Oriente;Mohamed Eissa;Chairman;Fruit Land Co (Sky Olivey);Tel: +2 010 000 574 72 / +2 012 744 425 72;m.riyad@fruitland-eg.com;www.fruitland-eg.com;Egito;Azeitonas
+450;Oriente;Echo Guo (郭欣悦);Sales Manager;Qingdao Fuxinkang Food Co., Ltd.;Tel: +86 132 1002 4320;echo@chilipaprika.com;www.chilipaprika.com;China;
+451;Oriente;Tina (郝文敬);Sales Manager;Qingdao Fuxinkang Food Co., Ltd.;Tel: +86 185 6373 6707;Tina@chilipaprika.com;www.chilipaprika.com;China;
+452;Oriente;Ta Quoc Su (Tạ Quốc Sự);Director of Ho Chi Minh City Branch;GE1 - Generalexim., JSC (Công Ty CP XNK Tổng Hợp I Việt Nam);Mobile: (+84) 905 636 567;sutq@ge1.com.vn;www.ge1.com.vn;Vietnam;Cassia
+453;Oriente;Levan Gakheladze;Deputy Director;Geo Organic;555 405 605 | 591 536 699;info@geoorganic.ge;geoorganic.ge;Georgia;Prunes
+454;Oriente;Cherry Liu (刘春莹);Manager;Green Farm Import & Export (Dalian) Co., Ltd.;Mob/Viber/WhatsApp: +86 13898633817 | Tel: +86 411 82779887 | Fax: +86 411 82779387;cherry90@hotmail.com;www.goodpumpkin.com;China;Pumpkin seed inshell, pumpkin kernel (anotado a mano: 'PUMPKIN')
+455;Oriente;W. K. Leong (梁和颉);;GPR Food Sdn. Bhd. (Global Premium Resources);+6016-7727 098;leong@gprfood.com;www.gprfood.com;Malasia;Cookies | Cakes
+456;Oriente;Hakkı Gürbüz;Export Manager;Grappa Food Inc;Phone: +90 236 716 30 00 (Pbx) | Fax: +90 236 716 37 65 (Pbx) | Mobil: +90 533 313 84 64;hakki@grappafoods.com;www.grappafoods.com;Turquia;Sultanas (anotado a mano)
+457;Oriente;Hakkı Gürbüz;Export Manager;Grappa Food Inc (Salihli);Phone: +90 236 716 30 00 (Pbx) | Fax: +90 236 716 37 65 (Pbx) | Mobil: +90 533 313 84 64;hakki@grappafoods.com;www.grappafoods.com;Turquia;Dried Fruits & Nuts
+458;Oriente;Ahmed Ibrahim (أحمد إبراهيم);General Manager;Green Oases for Trading & Agriculture (الواحات الخضراء);+2 0100 421 6117;ahmed.ibrahim@greenoases.com;www.greenoases.com;Egito;
+459;Oriente;Ayman Mady (أيمن مادي);Sales Manager;Green Oases for Trading & Agriculture (الواحات الخضراء);+55 49 99918 5010;ayman.mady@greenoases.com;www.greenoases.com;Egito;
+460;Oriente;Charles Cai (蔡兵);General Manager;Agrogentra & Co., Ltd. Xiamen (厦門潤榮貿易有限公司);Tel: +86-592-5393128 / 5393123 / 5393126 | Fax: +86-592-2291213 | Mobile: +86-13906031045;charles.cai@agrogentra.com;www.agrogentra.com;China;Peixes Enlatados
+461;Oriente;Manoj M. Grover;;Grover Sons (Think Sesame... Think Grover);Tel: +91 22 2604 1118/19/20 | Fax: +91 22 2604 1101 / 2342 0638;bhavan@bom3.vsnl.net.in;www.groversons.com;India;Seeds | Sementes
+462;Oriente;Khushwant Jain;Managing Director;G. S. Exports;M: +91 98202 16980 | Tel: +91 22 27689211 Extn. 102;khush@gsexports.net / khushwantj@hotmail.com;www.gsexports.net;India;
+463;Oriente;Dhruv Jain;;G. S. Exports;M: +91 96993 23867 | Tel: +91 22 27689211 | Fax: +91 22 27682393;dhruv@gsexports.net / jaindhruv37@yahoo.com;www.gsexports.net;India;
+464;Oriente;Sanwar Agarwal;Marketing Manager;PT Global Vision Impex (GVI);Phone: (62-21) 461 4080 | Fax: (62-21) 460 2884 | Mobile: (62) 815 1685 496;sanwar@gvi.co.id;www.gvi.co.id;Indonesia;
+465;Oriente;Sidharth Tekriwal;Director;PT Global Vision Impex (GVI);Phone: (62-21) 461 4080 | Fax: (62-21) 460 2884 | Mobile: (62) 812 943 8042;sidharth@gvi.co.id / s_tekriwal@hotmail.com;www.gvi.co.id;Indonesia;
+466;Oriente;Phung Sam;Chairman;Hanfimex Group;+84 983 766 566 (Whatsapp/Viber) | Tel: +84 24 3540 2610;export@hanfimex.com;www.hanfimex.com | www.hanfimexretail.vn;Vietnam;Pepper, cassia, cashew, herbs, coffee, rice, coconut
+467;Oriente;Chloe Chen (陈艳);Sales;Pizhou Hengfengbao Food Co., Ltd (邳州恒豐寶食品有限公司);M: 0086 15852471016 | Tel(Fax): 0086 516 86515799;garlic02@hfbfood.com;www.hfbfood.com;China;
+468;Oriente;Nanda B. Kohona;Director / D.G.M. Marketing;International Commodity Traders (Pvt) Ltd. / Silvermill Holdings Ltd.;Tel: (+94) 11 2677064, 2677073 | Direct: (+94) 11 7389384/85/86 | Fax: (+94) 11 2677063 | Mobile: (+94) 718 681602;nanda@ictlk.com;www.silvermillgroup.com;Sri Lanka;Cassia
+469;Oriente;Marwa Farid;Commercial Director;Indagro;Tel: +20122 211 2412;marwa.farid@indagroegypt.com;www.indagroegypt.com;Egito;Azeitonas, Azeite de Oliva
+470;Oriente;Prokopis Konstantopoulos;Export Manager;InterOliva;Phone: +30 23510 37747 | Fax: +30 23510 35870;info@interoliva.gr / manager@interoliva.gr;www.interoliva.gr;Grécia;Azeitonas
+471;Oriente;Marzieh Khani;Sales & Export Manager;Aychin Tejarat Aras Co. (Import.Export.Nuts);Tel: +98 902 921 6685;khani@irannut.com;www.aychinco.com;Iran;Dried Fruits & Nuts
+472;Oriente;Dharmil D Thacker;;Januz Universal;Tel: (022) 25205488 | Fax: (022) 25215488 | Mobile: +91 9820617017;januz@januzuniversal.in;www.januzuniversal.in;India;
+473;Oriente;Sahil Goel;Managing Partner;JKH Herbs & Spices Pvt. Ltd. (jkh exports);Handphone: +91 98200 62233 | Tel: +91-22-27842239 / +91-22-27842233 | Fax: +91-22-27832935;jkhanil1@jkhexports.com / jkhsahil1@jkhexports.com;www.jkhherbs.com | www.jkhspices.com | www.jkhexports.com;India;Spice and seasoning ingredients, instant snacks & confectionery ingredients, diet supplements, porridge & bird feed ingredients, herbal natural ingredients, herbal tea ingredients, natural herbal extracts & its ingredients
+474;Oriente;Sahil Goel;Managing Partner;Jairamdass Khushiram Impex Pvt. Ltd. (jkh exports);Handphone: +91 98200 62233 | Tel: +91-22-27842239/27842233/27832935;jkhanil1@jkhexports.com / jkhsahil1@jkhexports.com / jkhpharm@jkhexports.com;www.jkhexports.com | www.jkhherbs.com | www.jkiherbs.com;India;
+475;Oriente;Jorick Voorzee;CEO;JV Nuts Group;Office: +1 (915) 9969672 | Cel: +52 (1) 33 11681428;jorick@mextf.com;www.jvnuts.com;Estados Unidos;Dried Fruits & Nuts
+476;Oriente;Nevzat Kanat;Vice President / Yönetim Kurulu Başkan Yardımcısı;Kanat Zirai Ürünler Sanayi ve Ticaret A.Ş.;Phone: +90 422 841 49 00 | Fax: +90 422 841 49 09 | Mobile: +90 532 322 11 44;nevzat@kanat-tr.com;www.driedapricots.com | www.apricotkernels.com;Turquia;Apricots (anotado a mano)
+477;Oriente;Deepak K. Parikh;Partner;Kanu Krishna Corporation (Govt. Recognised Star Export House);Tel: +91-22 4023 7676-82 | +91-22 2342 7676 / +91-22 2340 0290 | Fax: +91-22-2340 1676 | Mobile: +91-98210 31991;kkcdipak@vsnl.com;www.kkcspices.com;India;
+478;Oriente;Yash M. Parikh;Manager (Export);Kanu Krishna Corporation (Govt. Recognised Star Export House);Tel: +91-22 4023 7676-82 | +91-22 2342 7676 / +91-22 2340 0290 | Fax: +91-22-2340 1676 | Mobile: +91-98203 50630;kkcdipak@vsnl.com;www.kkcspices.com;India;
+479;Oriente;Peter Wu (武强);Sales Manager;Shandong Kingland Co., Ltd;Mobile: 0086 13953203689 | Tel: 0086 0532 66888100 | Fax: 0086 0532 80770234;export@sdkingland.com;www.sdkingland.com;China;
+480;Oriente;Echo Tse (谢少强);General Manager;Legumex Walker (Tianjin) International Trading Ltd.;Mobile: +852 9023 4011 / +86 150 1251 7177 | Tel: +86 (0) 22 6529 9911 | Fax: +86 (0) 22 6529 9090;echo@legumexwalker.cn;www.legumexwalker.cn;China;Beans | Feijões
+481;Oriente;Irene Evangelopoulou (Ειρήνη Ευαγγελοπούλου);Export Sales Manager;Lelia Foods S.A. (esti Greek Premium Products - Ifantis Group);T: +30 22210 31200 | M: +30 6958 463931;irene@lelia.gr;leliafoods.gr;Grécia;Sun kissed Greek olives
+482;Oriente;Alina Calin;Sales Support Specialist;Lidya Walnuts S.A. (member of Tiryaki group);Tel: +40 248 610 600 | Fax: +40 248 610 601 | Mobile: +40 784 285 525;alina.calin@lidyawalnuts.com;www.lidyawalnuts.com;Rumania;Walnuts
+483;Oriente;Carlijn Cools;Sales Manager;Baoqing Zhongqing Agricultural & Sideline Products Co., Ltd (Longdong Zhongqing);Tel: 0086 469 5455868 | Fax: 0086 469 5455866 | Mobile: 0031 (0)651311186;carlijn@zhongqingpumpkins.com;www.zhongqingnuts.net;China;Seeds | Sementes
+484;Oriente;王明丽;销售员 (Sales);Lontrue Co., Ltd (朗源股份有限公司) [SZ:300175];Tel: 0535-8662329 | Fax: 0535-8610658 | Mobile: 13884655707;amy@lontrue.com;www.lontrue.com;China;
+485;Oriente;Huynh Thi Cam Chau;Vice Director;Luong Quoi Coconut Co., Ltd;Mobile: +84 (0) 908 055 992;luongquoi@gmail.com;www.luongquoi.vn;Vietnam;
+486;Oriente;Nguyen Truong Thinh;Import & Export Department Manager;Luong Quoi Coconut Co., Ltd;Mobile: +84 (0) 986 86 16 96;truongthinh@luongquoi.vn / ngtruongthinh@gmail.com;www.luongquoi.vn;Vietnam;Desiccated Coconut
+487;Oriente;Li Shuyu;Sales Director;Meihekou City Sahewanxin Mountain Specialty Co., Ltd (Dalian Office);Tel: 0086 411-82710859 | Fax: 0086 411-39887659 | Mobile: (0)13804257003;sandylizhyr@hotmail.com;;China;Dried Fruits & Nuts
+488;Oriente;Liana Hardiyanto;Managing Director;PT. Mignon Sista International;Phone: +62 21 8671068 / 86863238 | Fax: +62 21 8672125 | Mobile: +62 811 1171 425;liana@mignon-international.com / lianasyauta@gmail.com;www.mignon-international.com;Indonesia;
+489;Oriente;Julia Liu (刘彩云);Vice General Manager;Juxian Modern Organic Ginger Co., Ltd (莒县华腾有机生姜有限公司);Tel: +86 633 8088 818 | Fax: +86 633 8088 838 | Mobile: +86 139 0633 0723;julialiu@rzsunny.com;www.bettermodern.com;China;Ginger (anotado a mano: 'Flakes Fresh')
+490;Oriente;Mojtaba Haddadi Bonab;Chairman;Mojtaba Bonab Co. (Mojtaba Bonab Dried Fruits Co.);Telefax: +98 (412) 7280121 - 7280324 | Phone: +98 (412) 7280323 | Mobile: +989143220622 | Turkey Office: +90 539 267 7635;info@mojtababonab.com;www.mojtababonab.com | www.mojtababonab.ir;Iran;Dried Fruits & Nuts
+491;Oriente;Hasnain Badami;Director;Murtuza Foods Pvt. Ltd.;Mobile: +91 89809 41414 | Ph: +91 2844 246118 / 246502 | Fax: +91 2844 246068;hlb@murtuzafoods.com;www.murtuzafoods.com;India;Desidratados
+492;Oriente;Nihal Shantha;Proprietor;Nihal Shantha & Sons (Manufacturing & Exports of Cinnamon);Tel: 091-2291798 | Fax: 091-2291092 | Mobile: 077-3421601 / 071-7421601;nihal_shantha76@yahoo.com;www.lankacinnmon.com;Sri Lanka;Cinnamon | Canela
+493;Oriente;Diego Ruckhaber;Comercial Manager;OBAI Comercio Internacional (Comércio, Importação e Exportação Ltda);Mobile: +55 (47) 9 9944-0224;comercial@obai.com.br;;Brasil;
+494;Oriente;Abdel-Rahman Adel;Commercial Director;Obay;Brazil: +55 473 021 7877 | Egypt: +20 106 638 8384 | +55 119 300 99211;export@obaitrading.com / abdel.rahman@outlook.com;www.obaitrading.com;Brasil;
+495;Oriente;Efthimis Frantzanas;Export Department;Olivellas SA (Top Quality Greek Olives);Mob: +30 6975 874 310 | Tel: +30 23710 52260 / 53260 (ext. 212) | Fax: +30 23710 51635;e.frantzanas@olivellas.gr;www.olivellas.gr;Grécia;Azeitonas
+496;Oriente;Hakkı Gürbüz;Commercial Manager;Orka;T: +90.236 313 90 00 | Direct T: +90.236.312 95 85 | Mobile T: +90.532.382 69 86 | F: +90.236.313 63 98;hgurbuz@orkatarim.com;www.orkatarim.com;Turquia;Dried Fruits & Nuts
+497;Oriente;Ahmet Bağcı;Export and Logistics Officer;Özgür Tarım Ürünleri İnş. San. ve Tic. A.Ş.;T: +90 (236) 357 49 53 Ext: 103 | F: +90 (236) 357 41 78 | M: +90 (532) 691 58 64;ahmetbagci@ozgurtarim.com.tr;www.ozgurtarim.com.tr;Turquia;
+498;Oriente;Alper Özgür;Member of the Board;Özgür Tarım Ürünleri İnş. San. ve Tic. A.Ş.;T: +90 (236) 357 49 53 | F: +90 (236) 357 41 78;alperozgur@ozgurtarim.com.tr;www.ozgurtarim.com.tr;Turquia;Dried Fruits & Nuts
+499;Oriente;Paris Georgoudis (Πάρις Γεωργούδης);CEO;Parthenon - Georgoudis S.A.;Tel: +30 24250 - 24025, 24201 | Fax: +30 24250 - 24026;georgoudis@vol.forthnet.gr;www.olives.gr;Grécia;Greek snack olives (anotado a mano)
+500;Oriente;Hari Prasad;Sales Director;Pearl Group (Tập Đoàn Trân Châu);Mobile: +84 932 609 398;sales1@pearlcorp.com.vn;vietnampepper.vn | giavitranchau.vn;Vietnam;Black pepper whole, white pepper whole, cassia, turmeric, ginger, star aniseeds, dry chilli, ground nut kernels, joss powder, joss sticks, bamboo sticks, betel nuts, desiccated coconut, green beans, medicinal herbs and spices, fresh chilli, fresh lemon, fresh and dry lemongrass, fresh garlic, fresh turmeric, fresh ginger, tomato, potato, sweet potato, lime, beetroot, cabbage, tamarind, aubergine, capsicum
+501;Oriente;Hoang Thi Lien;Chairperson;Vietnam Pepper Association (VPA);Mobile: +84 90 179 5135 | Tel: +84-28 3823.7288 | Fax: +84-28 3822.3901;vpa@peppervietnam.com / lienhoang.vpa@gmail.com;www.peppervietnam.com;Vietnam;
+502;Oriente;Phan Minh Thong;President / Tổng Giám Đốc;Phucsinh Corporation (Công Ty Cổ Phần Phúc Sinh);Tel: +(84.8) 38 266 251 | Fax: +(84.8) 38 266 250 - 38 268 616 | Mobile: +(84) 903 685 458;office@phucsinh.com;www.phucsinh.com;Vietnam;Café, cassia (anotado a mano: 'anis')
+503;Oriente;Fatima R. Velasco;VP - Marketing & Sales;Primex Group of Companies;+63 918 9208343 | Phone: +63 2 87227327 loc 104 | Fax: +63 2 87279098;sales@primexcoco.com;www.primexcoco.com;Filipinas;Desiccated Coconut
+504;Oriente;Hana;Sales Manager;Prosi Thang Long Join Stock Company (PROSI);WhatsApp: (+84) 97 368 29 50;Hana@prosi.com.vn;prosi.com.vn;Vietnam;Especiarias
+505;Oriente;Wu Haiyan;;Qingdao Haiwang Dried Vegetables & Fruits Co., Ltd (Haiwang Food Ingredients);Mob: 0086-13969875678 | Tel/Fax: 0086-58567189;haiwanggs@163.com / admin@qdhaiwang.com;www.qdhaiwang.com;China;Dried Fruits & Nuts
+506;Oriente;Samiullah Khan;Managing Director;Rahmat Fruit Processing Corp;-7626;sami@rahmatfruitprocessing.com / info@rahmatfruitprocessing.com;www.rahmatfruitprocessing.com;Paquistão;Dried Fruits & Nuts
+507;Oriente;Shantibhai Patel;;Raj International;+91 987 931 2305 | Tel: +91-2744-220846;info@rajmasala.com;www.rajmasala.com;India;Spices
+508;Oriente;Burhanuddin Kerai;Export Executive;Rashwell Company (L.L.C.) - Rashco;Mob: 052-9047805 | Tel. Off: 2262855 | Fax: (009714) 2262337;info@rashwell.com;www.rashwell.com;Emiratos Árabes Unidos;
+509;Oriente;;;Oriental (Oriental Fruits);;;www.orientalfruits.com;;Onions, oranges, garlic, grapes, strawberries
+510;Oriente;Saima Akhtar;CEO;Sana Naturals;T: +92 21 35171411-2 | M: +92 300 2863933;s.akhtar@sana-naturals.com;sana-naturals.com | healiv.co;Paquistão;
+511;Oriente;Saima Akhtar;CEO;Sana Traders;Phone: +92 301 8220770 | +92 300-2863933;S.Akhtar@Sana-Traders.com;www.Sana-Traders.com;Paquistão;Himalayan salt products
+512;Oriente;Li Shuyu (李淑渝);销售总监 (Sales Director);Meihekou City Renhe Wanxin Mountain Specialty Products Co., Ltd (Dalian Office);Tel: 0411-82710859 | Fax: 0411-39887659 | Mobile: 13804257003;sandylizhyr@hotmail.com;;China;
+513;Oriente;Sudhira Anthony;DGM Marketing;S. A. Silva & Sons Lanka (Pvt) Ltd. (Silvermill);Tel: +94 11 7389375-77 / +94 11 2677073 | Fax: +94 11 2677063 | Mobile: +94 71 788 1204;sudhira@silvermillgroup.com;www.silvermillgroup.com;Sri Lanka;
+514;Oriente;Judy Abrina;;Sekaya Global Group (Sekaya Natural Ingredients);(632) 8858-1000 | +63917-8518087;mabrina@sekayaglobal.com;www.sekayaglobal.com;Filipinas;
+515;Oriente;İlhan Zincircioğlu;Export Manager;Şen İhracat Dış Ticaret A.Ş. (Dry and Dried Fruits Export);Office: +90.232.422 10 60 - 421 89 72 | Fax: +90.232.421 77 05 | Mobile: +90.532.295 88 59;ilhanz@senihracat.com / info@senihracat.com;www.senihracat.com;Turquia;Dried Fruits & Nuts
+516;Oriente;Osman Özyurt;Sales Executive;Seyrek Tarım Ürünleri San. ve Tic. Ltd. Şti. (Seyrek Dried Fruits / Golden Figs);T: +90 256 563 1014 | F: +90 256 563 1015 | M: +90 535 715 5523;osman@seyrekfood.com;www.seyrekfood.com;Turquia;Dried Fruits & Nuts
+517;Oriente;Charles-Chin;Sales Manager;Dalian Shuangfeng Grain Processing Co., Ltd (sFood);Tel: +86-411-83721758 | Fax: +86-411-83726283 | Mobile: +86-13591371288;sflg@china-bean.com;www.china-bean.com;China;Beans, pulses, buckwheat, sunflower seeds, pumpkin seeds, peanuts, pine nuts, raisins, millet
+518;Oriente;Kevin (符海宁);Marketing Assistant;Shandong Foodstuff Co., Ltd (Shandong Pastoral Wealth Group);0086-13793821589 | Tel: 0086-538-8209008 / 6981886 | Fax: 0086-538-8209018;Sales002@pastoralgroup.com;www.pastoralgroup.com;China;
+519;Oriente;Mohammad Reza Tabibi;Managing Director;Shokooh Bonab (Manufacturer & Exporter of Iranian Raisins);Tel: +98 412 728 11 30 | Fax: +98 412 728 06 99 | Mobile: +98 914 121 8053;info@shokooh-bonab.com;;Iran;Raisins
+520;Oriente;Sanjay Vachhani;Managing Director;Shyam Industries (Star Export House);+91 98250 78169 | T: +91 79 2282 2365, 2280 1298 | F: +91 79 2282 1433;sanjay@shyam.in / info@shyam.in;www.shyam.in;India;Seeds | Sementes
+521;Oriente;Derman Akın;Sales & Marketing Executive;Sibas Gıda Sanayi ve Ticaret A.Ş.;Tel: +90 256 548 10 11-156 | Faks: +90 256 548 10 90 | Gsm: +90 533 325 78 30;derman@sibasfood.com;www.sibasfood.com;Turquia;Capers (anotado a mano)
+522;Oriente;Amitha Silva;Chief Marketing Officer / Director;S. A. Silva & Sons Lanka (Pvt) Ltd. (Silvermill);Tel: (+94) 11 7389375-77 | Direct: (+94) 11 7389381 | Fax: (+94) 11 2677063 | Mobile: (+94) 71 7881211;amitha@silvermillgroup.com;www.silvermillgroup.com;Sri Lanka;
+523;Oriente;Dinesh Sabhadia;Chairman;Sky Agri Export;+91 800 052 0406;sales@skyagriexport.com;www.skyagriexport.com;India;Spices, garlic (anotado a mano)
+524;Oriente;Tarun Bafna;Director;SMJ Exports Private Limited (SMJ Spices);M: +91 96722 73561;tarunbafna@smjspices.com;www.smjspices.com;India;Especiarias
+525;Oriente;Muhammet Öztürk;;Spice Source (Alternatif Tarım ve Orman Ür. San. ve Tic. Ltd. Şti.);Tel: +90 (232) 866 2200 | Fax: +90 (232) 866 2420 | Gsm: +90 (532) 411 54 20;ozturk@spicesource.com;www.spicesource.com;Turquia;
+526;Oriente;Sahil G. Brahmbhatt;Managing Director;Sterling Exports Inc. (Govt. Recognized Star Export House);Phone: 91-22-2591 9311/2591 2192 | Fax: 91-22-2591 9310 | Mobile: 91-9819702040 / 9920117264;sahil@sterlingexportsinc.com;www.sterlingexportsinc.com;India;Spices, oil seeds, rice, raisins, herbs, grains, pulses, oils, dehydrated onion, dehydrated garlic (anotado a mano: 'raisins')
+527;Oriente;Sam Way (魏宪民);Sales Manager;Hebei Tiancheng Food & Vegetable Co., Ltd (STfood / Shining Tech (Xuzhou) Co., Ltd);M.phone: +86 13952110002 / +86 18651789965 | Fax: +86-516-85713235;sales@shiningtech.cn;www.chinastfood.com | www.chinastfood.cn;China;Blueberries
+528;Oriente;Heryana Pranayasa;;Sungai Budi Group;Phone: (+6221) 5213383 | Fax: (+6221) 5262971;heryanapranayasa@sungaibudi.com;;Indonesia;
+529;Oriente;Indra W. Satiragani;;Sungai Budi Group;Phone: (021) 5213383 | Fax: (021) 5262971;indra.ws@sungaibudi.com;;Indonesia;
+530;Oriente;Mayank Jain;;Suruchi Spices Pvt. Ltd.;+91 9422806493 | Ph: (07109) 278371, 278424 | Fax: 278388;mayank.jain@suruchispices.net / export@suruchispices.net;www.suruchispices.net;India;
+531;Oriente;Leri Tabatadze;Managing Partner;Almond and Walnut Producers' Association;+995 577 11 08 67;Tabatadze.leri@gmail.com;;Georgia;Walnuts, Almonds
+532;Oriente;Korrakod Boodarkad;Marketing Executive;Takerng Pineapple Industrial Co., Ltd / V & K Pineapple Canning Co., Ltd;Phone: +66 (32) 721073-75 | Fax: +66 (32) 721071-72 | Mobile: 66 (81) 9411405;korrakod@takerng-vk.net;www.takerng-vk.com;Tailandia;Conservas
+533;Oriente;;;T&S International LLC / Global Best (HK) Limited;Tel: (908) 818-1112 | Fax: (908) 221-1933 | Tel: 00852-65323928;;;Estados Unidos;
+534;Oriente;Sajahan Abdul Hameed;Managing Director;Transfood Lanka (Pvt) Ltd. (Sri Lankan Raw Spices Exporter);+94 777 120960 | T: +94 112 534309, +94 11 254 7492;tflankasp@gmail.com;www.tflanka.com;Sri Lanka;Cinnamon | Canela
+535;Oriente;Mayer Arditi;Managing Director;Timtas Tarım Ilac ve Mahsulleri Ticaret A.Ş.;T: +90 232 483 38 37 | M: +90 532 760 92 76;arditi@timtas.com.tr;www.timtas.com.tr;Turquia;Dried Fruits & Nuts
+536;Oriente;Ryan (Mr. Phu);International Sales Manager;Tinmai JSC;Tel: +84 - 283 814 3669 | Mobile: +84 - 912 817 382;sales@tinmai.vn;www.tinmai.vn;Vietnam;Coco
+537;Oriente;Tracy Liu;General Manager;Qingdao Topsen Imp & Exp Co., Ltd;H/P: 0086-137 0898 7675 | Tel: 0086-532-85840515 | Fax: 0086-532-85848668;liu-tracy@263.net / topsen2015@163.com;www.chinatopsen.com;China;Dried Fruits & Nuts
+538;Oriente;Aditha Rambukwella;Senior Manager - International Trade;Tropikal Life International (Pvt) Ltd;M: +94 77 1030923 | T: +94 11 4311541;aditha@tropikal.life;www.tropikal.life;Sri Lanka;
+539;Oriente;Hasan Türkel;Export Manager;Türkel (Turkish Dried Apricots & Figs);Phone: +90 422 237 55 15 Pbx | Fax: +90 422 237 55 18 | Mobile: +90 533 593 74 75;yusa@turkelapricot.com;www.turkelapricot.com;Turquia;
+540;Oriente;Ihor Djachok;Head of Export Sales Dept.;UKR-WALNUT LTD;Tel: +38(095) 220-81-72 | Fax: +38(0382) 71-85-35;sales@ukr-walnut.com / info@ukr-walnut.com;www.ukr-walnut.com;Ucrânia;Walnuts
+541;Oriente;Pramodh Wickremasinghe;Manager;Union Commodities (Pvt) Ltd. (Unicom / Simondou / Cocofera);Tel: +94 115 700 900 / +94 115 700 960 | Mobile: +94 763 483 853;pramodh@unicomtea.net;;Sri Lanka;
+542;Oriente;Rohit Savaliya;Foreign Trade Manager;United Inc;Mobile: +91 909 916 5378 / +91 886 641 4234;sales@unitedincagri.com;www.unitedincagri.com;India;Dried Fruits & Nuts
+543;Oriente;Yan Jing (闫静);Business Manager;Urumqi High-Tech Development Zone Elite Trading Co., Ltd (金海怡贸易有限公司);Mobile: 0086-(0)13565859223 | Tel: 0086-991-3676910 | Fax: 0086-991-3676900;manager@elite-impexp.com;www.elite-impexp.com;China;Tomate
+544;Oriente;Kesinee Mekdumrongsang;Marketing Director;Vara Food & Drink Co., Ltd;Tel: (662) 881-2030, 881-2040 | Fax: (662) 434-5433-4, 881-2033;mkesinee@loxinfo.co.th / kesinee_mek@varafood.com;;Tailandia;Coco
+545;Oriente;Lâm Thị Bạch Tuyết;Trưởng Phòng Kinh Doanh I / Manager of Trading Dept. I;Vegetexco Ho Chi Minh City (Công Ty Cổ Phần Xuất Nhập Khẩu Rau Quả);ĐT: (84-8) 39330496 | Mobile: +84-939420191 | Fax: (84-8) 39330562;vghcm6@hcm.fpt.vn / vghcm3@hcm.fpt.vn;www.vegetexcohcm.com;Vietnam;
+546;Oriente;Sanndip Goyal;C.E.O;V Ganesh Foods (P) Limited;Phone: 91-731-304-66-44 | Fax: 91-731-304-66-22 | Cell: 91-942-506-28-01;exports@ganeshagro.com;www.ganeshagro.com;India;Spices (whole & ground), black pepper (Vietnam), corn starch, raisins (golden, black & brown), botanical herbs, sesame seeds (natural & hulled), chick peas, peanuts, cashews, agro commodities
+547;Oriente;Abdallah Mashhour;General Manager;Vida (Vida Trading);+1 (469) 756-2256;mashhour@vida-trading.com;www.vida-trading.com;;Azeitonas, Azeite e Oliva
+548;Oriente;Nguyen Thanh Trung;Import - Export Dept.;Vilexim Import Export & Cooperation Investment JSC Branch;Mobile: 0918 587 882 | Tel: (84.8) 3.512 6062 / (84.8) 3.512 6063 | Fax: (84.8) 3.512 6059;trungthanhng1234@yahoo.com;www.vilexim.com.vn;Vietnam;
+549;Oriente;Lisa Huyen;General Director;Vinasamex;Tel: +8424 6295 1111 | Fax: +8424 6269 9997 | Mobile: +84 987 558 116;Info@staraniseed.com / lisa.staraniseed@gmail.com;www.vinasamex.com;Vietnam;Especiarias
+550;Oriente;Maika Chi;Sales Manager;Visimex;Mobile: +84 948 425 455 | Tel: +84 24 3976 5905 (Ext:348);maika@visimex.com;www.visimex.com;Vietnam;
+551;Oriente;John E. Sueke;;Wright Associates International;Tel: +44 207 433 1073 | Mobile: +44 7801 662 481;johnsueke@wright-associates.org;;Reino Unido;
+552;Oriente;Maya Shafie;Regional Export Sales Manager;Wadi Food Industries Co. S.A.E;T: +20 2 38278203/4 - 38278213/4 | F: +20 2 38278299 | M: +20 1066637613;maya.shafie@wadigroup.com.eg;www.wadigroup.com;Egito;
+553;Oriente;Wael Soliman;General Manager;Oriental;Whatsapp: +2 010 105 034 91 | Phone: +2 02 224 123 15;wsoliman@orientalfruits.com;;Egito;
+554;Oriente;Roshan Perera;Chief Operating Officer (COO);Waguruwela Oil Mills (Pvt) Ltd.;T: +94 770467811;roshan@waguruwelamills.com;www.waguruwelamills.com;Sri Lanka;Premium quality tropical organic products
+555;Oriente;David Bukhnikashvili;Director;Walnuts.ge;+(995) 591 130 811;operations@walnuts.ge;www.walnuts.ge;Georgia;
+556;Oriente;Sharon Yang (楊絲涵);Agriculture;Wel-Hunt Materials Enterprise Co., Ltd (華翰物產實業股份有限公司);886-2-2749-3763 | 886-970-583624 | Tel: 886-7-9668898 | Fax: 886-7-9668868;Sharon.yang@welhunt.com.tw;www.welhunt.com.tw;Taiwan;Cashews
+557;Oriente;Jianhong Yang (杨建宏);General Manager / 总经理;Linyi Yuanyuan Food Co., Ltd (临沂园源食品有限公司);Tel: +86-539-8096077 | Fax: +86-539-8096071 | Mobile: +86-13905398446;yuanyuanfood@vip.163.com;www.vegetables-fruits.com;China;Desidratados
+558;USA-CANADA;;;Alliance Grain Traders;;;;Canadá;
+559;USA-CANADA;Tessa Leys;Operations Manager;Amexsa Corp. (Corpavicol);678-681-9637 | 800-991-0271 x102 | Fax: 678-562-9525 / 888-740-9874;tessa@amexsacorp.com;www.AmexsaCorp.com;Estados Unidos;Varios
+560;USA-CANADA;Amar Patel;Facility Manager;Andalucia Nuts;+1.404.997.9054 | tel 1.770.977.0555 | fax 1.770.977.4511;apatel@andalucianuts.com;www.andalucianuts.com;Estados Unidos;
+561;USA-CANADA;Matthew Gold;Brand Development Manager;American Trading International (ATI);+1 310.445.2000;ati@american-trading.com;american-trading.com;Estados Unidos;
+562;USA-CANADA;John Gutteridge;V.P. Sales;Bar Bakers;office 562.719.0313 | cell 949.422.7599 | fax 562.719.0323;john@barbakers.com;www.barbakers.com;Estados Unidos;
+563;USA-CANADA;Debbie Etsell;Executive Director;British Columbia Blueberry Council (BC Blueberries);T: +1 604 864 2117 | C: +1 604 996 2701 | F: +1 604 864 2197;debbie@bcblueberry.com;www.bcblueberry.com;Canadá;Blueberries
+564;USA-CANADA;Jeffrey Sleeper;International Sales Manager;Blue Diamond Almonds (Global Ingredients Division);Office: 916-446-8323 | Mobile: 916-671-4420 | Fax: 916-446-8622;jsleeper@bdgrowers.com;www.bdingredients.com;Estados Unidos;Almonds
+565;USA-CANADA;William Brauner;Miami Branch Manager;Brauner International Corporation;Tel: (305) 477-8097 | Fax: (305) 477-8170;wbmia@braunerintl.com;www.braunerintl.com;Estados Unidos;International freight forwarders, custom brokers, air freight
+566;USA-CANADA;Todd Ziegenfus;VP, International;BuzzBallz Cocktails (Southern Champion);+1 925.337.6346 | +1 972.242.3777;todd.ziegenfus@southern-champion.com;BuzzBallz.com;Estados Unidos;Cocktails
+567;USA-CANADA;Vivian Zhang;;Cal Ranch;Phone: (925) 429-2900 | Fax: (925) 429-2017;export@calranchfood.com;;Estados Unidos;Pistache | Pistacchio
+568;USA-CANADA;Linda Truong;;Carter Pecan (Arnco Inc);O: +1 850 777 3139 | M: +1 623 383 4786;Linda@CarterPecan.com;www.CarterPecan.com;Estados Unidos;Fine treenuts
+569;USA-CANADA;Preston Asay;;Carter Pecan (Arnco Inc);O: +1 334 218 3803 | M: +1 850 238 6998;Preston@CarterPecan.com;www.CarterPecan.com;Estados Unidos;Fine treenuts
+570;USA-CANADA;Monica D. Olson;Account Manager - Sunflower Processing & Food Ingredients;CHS;Direct: 701-484-5105 | Mobile: 701-781-0269 | Fax: 701-484-5657;monica.olson@chsinc.com;chsinc.com | chssunflower.com;Estados Unidos;Seeds | Sementes
+571;USA-CANADA;Max J. Messier;Co-Founder / Productions;Cocktail & Sons;4153705650;max@cocktailandsons.com;www.cocktailandsons.com;Estados Unidos;Cocktails
+572;USA-CANADA;Jessica Vazquez;Customer Service Coordinator;Crain Walnut Shelling, Inc.;Ph: 530-528-7757 | Fax: 530-529-1458 | Mobile: 530-567-5573;jvazquez@crainwalnut.com;www.crainwalnut.com;Estados Unidos;Walnuts
+573;USA-CANADA;Kimberly Gonsalves;Sales Administrator;Crain Walnut Shelling, Inc.;Ph: (530) 528-7748 | Fax: (530) 529-1458 | Mobile: (530) 567-5566;kgonsalves@crainwalnut.com;www.crainwalnut.com;Estados Unidos;Walnuts
+574;USA-CANADA;Jason Karr (杰森·卡尔);;Derco;Tel: (559) 435-2664 | Fax: (559) 435-8520;jason@dercofoods.com;www.dercofoods.com;Estados Unidos;
+575;USA-CANADA;Ewerton Barea;;Divina Castanha;WhatsApp: 44 99742-6258;divinacastanhadobrasil@gmail.com;;Brasil;Dried Fruits & Nuts
+576;USA-CANADA;Ashli Blauser;;FoodSource Inc.;Phone: 630-887-8590 | Mobile: 773-366-9493 | Fax: 630-887-8599;ashli@foodsource.us;www.foodsource.us;Estados Unidos;Walnuts, Almonds
+577;USA-CANADA;Moataz Zaki;CEO;Fresh Gate;0.9995045554548182;Moataz@freshgate.org;www.freshgate.org;Egito;Azeitonas
+578;USA-CANADA;Marie-Michèle Le Moine;Chargée de comptes à l'international / International Account Manager;Fruit d'Or Inc.;Tel.: 819 385-1126 ext. 227 | Fax: 819 715-0058;mmlemoine@fruit-dor.ca;www.fruit-dor.ca;Canadá;Produits de canneberge et bleuet biologique et conventionnel (organic and conventional cranberry and blueberry products - dried, IQF, puree, juice, concentrate and retail)
+579;USA-CANADA;Pablo Esteban Villalobos Vaccaro;Business & Development;Fruselva America;Office: +56 71 2632200 | Mobile: +569 63348846;p.villalobos@fruselvaamerica.com;www.fruselvaamerica.com;Chile;Global food co-manufacturer (anotado a mano: 'Suco' con dibujo de botella)
+580;USA-CANADA;Geoffrey Bogart;Latin America Marketing Consultant;;Cell: (209) 573-3317;gbogart007@gmail.com;Linkendin.com/in/geoffreysbogart;Estados Unidos;Almonds
+581;USA-CANADA;Priya Verma;International Trade Manager;Georgia Department of Economic Development;direct: (+1) 404.962.4124 | fax: (+1) 404.962.4121;pverma@georgia.org;Georgia.org;Estados Unidos;
+582;USA-CANADA;Gema Perez-Norbeck;VP of Sales & Marketing;Hidalgo Group, LLC (Logistic & Supply Chain);Tel. 561.926.3980;gema@hidalgogroupllc.com;www.hidalgogroupllc.com;Estados Unidos;
+583;USA-CANADA;Darwin Inman;VP - Sales & Marketing;Horizon Nut Company (Horizon Growers);Office: 559.685.3663 | Mobile: 209.988.5659;dinman@horizonnut.com;www.horizonnut.com;Estados Unidos;Pistache | Pistacchio
+584;USA-CANADA;Joe Wiegand;Grower Representative;Harris Woolf Almonds (HWA);o. 559.884.2147 | m. 559.999.6605;jwiegand@hwalmonds.com;harriswoolfalmonds.com;Estados Unidos;Almonds
+585;USA-CANADA;Mumtaz Rahman;Managing Director;PT. Indo Rempah Commodities;+62 812 9369 9611 | +62 21 2276 7777;mumtaz@indorempah-commodities.com;www.indorempah-commodities.com;Indonesia;Desiccated Coconut
+586;USA-CANADA;Eddie Correa;Director;Izzy Group LLC;(516) 698-8187 | (954) 531-6419;ecorrea@izzygroupusa.com;;Estados Unidos;Serviços
+587;USA-CANADA;Tracy North / Michelle Pyrtle;;LeAnn's Gourmet Foods;Tracy North (678) 641-4493 | Michelle Pyrtle (770) 560-5980 | Office (678) 272-0983;leannsgourmetfoods@gmail.com;www.leannsgourmetfoods.com;Estados Unidos;Gourmet zucchini relish (anotado a mano: 'Pickles, conservas')
+588;USA-CANADA;Richard Rees;Director of Marketing;L.H. Hayward & Company, LLC (Camellia Brand / Gulf Coast Blenders / Dagostino);(504) 733-8480 | (225) 953-1000;RichardR@LHHCO.com;CamelliaBrand.com | GulfCoastBlenders.com | DagostinoPasta.com;Estados Unidos;Dried Fruits & Nuts
+589;USA-CANADA;Alarico Callado;President;Logic Logis (Freight Forwarder & International Logistics);C 305-923-2193 | P 786-623-2755 | F 786-623-0868;alarico@logiclogis.com;www.logiclogis.com;Estados Unidos;
+590;USA-CANADA;Maxime Krief;Sales Director Africa & Middle East;LTA International Global Services;Office: (727) 896-7555 ext. 260 | Fax: (727) 954-8825 | Mobile: (813) 943-2181;mkrief@ltainternational.com;www.ltainternational.com;Estados Unidos;
+591;USA-CANADA;Nelson Mathias, Jr.;Diretor Comercial;Mobilis CargoLog;(12) 98887-4597;nelson.mathias@mobiliscargolog.com;;Brasil;
+592;USA-CANADA;Willie Lee Cooper,  Jr.;;Elnora Farms Inc. / Okeanos Inc.;229-331-1792;williec.okeanos@mstar.net;;Estados Unidos;Quality fruit produce, further process vegetables, cut flowers
+593;USA-CANADA;Janette M. Roca;;Naturally Delicious;786-769-8880;janette@naturallydelicious.org;NaturallyDelicious.org;Estados Unidos;Snacks
+594;USA-CANADA;Kari McCready;National Key Account Manager;NaturSource;C. (647) 834-2798;kari@natursource.com;www.natursource.com;Canadá;
+595;USA-CANADA;Barbara Charlet;Market Development Coordinator;Oklahoma Department of Agriculture, Food, & Forestry;Office (405) 522-6192 | Fax (405) 522-4855;barbara.charlet@ag.ok.gov;;Estados Unidos;
+596;USA-CANADA;Ruben Echeverry;President;Open Markets Corp. (Marketing Research and Sales Alliances);Phone: 786.200.4824 | Fax: (1) 775.205.4045;admin@openmarketscorp.com;www.openmarketscorp.com;Estados Unidos;
+597;USA-CANADA;;;Oregon Hazelnuts;;;www.OregonHazelnuts.org;Estados Unidos;Hazelnuts
+598;USA-CANADA;Maggie Suazo;VP Business Banker;PNC Bank (PNC CFO);T 305-202-3500 | F 855-354-5946;margarita.suazo@pnc.com;pnc.com/cfo;Estados Unidos;
+599;USA-CANADA;;;Rancho Pecana;;orders@ranchopecana.com;;;Dried Fruits & Nuts
+600;USA-CANADA;Jonni King;Inside Sales Export Accounts;Red Gold (Premium Tomato & Food Products);Office 765.557.5500 Ext. 1167 | Fax 765.557.5501;jking@redgold.com;www.RedGold.com;Estados Unidos;Tomate
+601;USA-CANADA;Catarina Lima;Trade & Marketing Specialist;River Global;+55 11 3051 9080 | +55 11 98877-9337;clima@riverglobal.net;www.riverglobal.net;Brasil;
+602;USA-CANADA;Carolina Nascimento;Managing Partner;River Global;+55 11 3051 9080 | +55 11 97618-0831;cnascimento@riverglobal.net;www.riverglobal.net;Brasil;
+603;USA-CANADA;Paul Ewing;;RPAC LLC (Almond Grower & Handler);Cell: +1.209.777.4453 | Office: +1.209.826.0272 | Fax: +1.209.826.3882;paulewing@rpacalmonds.com;www.rpacalmonds.com;Estados Unidos;Almonds
+604;USA-CANADA;Melissa Groisman;Attorney at Law;Rosenthal Rosenthal Rasco, LLC (Law Offices);Tel: 305.937.0300 | Fax: 305.937.1311;MGS@RRRKlaw.com;;Estados Unidos;
+605;USA-CANADA;Mark Boryski;Merchandiser;Saskcan Pulse Trading;Phone: (306) 525-4490 | Cellular: (306) 596-8116 | Fax: (306) 525-4463;mboryski@saskcan.com;www.saskcan.com;Canadá;
+606;USA-CANADA;Jacob Friel;;Friel Lumber Company / S.E.W. Friel, LLC (Friel's - Fancy Canned Foods);Phone: 410-827-8811 | Toll Free: (800)739-2676;jacob@sewfriel.com;www.friellumber.com;Estados Unidos;Fancy canned foods, made fresh from the farm
+607;USA-CANADA;Steve Krueger;Logistics Operations Manager;Sneakz Organic;Cell: 561-420-2845 | Office: 561-529-3083;steve@sneakz.com;www.sneakz.com;Estados Unidos;Yummy veggie nutrition (anotado a mano: 'Achocolatado')
+608;USA-CANADA;Dale Darling;;Summit Premium Tree Nuts;Cell 1-916-225-0950 | Tel. 1-916-988-1081 | Fax 1-916-988-1089;daledarling@summitalmonds.com;;Estados Unidos;
+609;USA-CANADA;Will Stenason;Director, International Sales;Taste of Nature;office: 416.619.0545 | cell: 416.919.9231;will.stenason@tasteofnature.com;tasteofnature.com;Canadá;
+610;USA-CANADA;Mark W. O'Brien;Sales Manager;Terrapin Ridge Farms;727.442.3663 / 800.999.4052 | Fax: 727.442.4800;mark@terrapinridge.com;www.terrapinridge.com;Estados Unidos;Queijos & Laticínios
+611;USA-CANADA;Carlos J. Guerrero;Coordinator for International Marketing;Texas Department of Agriculture;Office (512) 463-6507 | Fax (888) 223-5735 | Mobile (512) 787-6931;Carlos.Guerrero@TexasAgriculture.gov;TexasAgriculture.gov;Estados Unidos;
+612;USA-CANADA;Bruce Caris;Executive Vice President;The Green Valley Pecan Company (A Division of Farmers Investment Co.);Sales 800-533-5269 | Phone 520-791-2852 | Fax 520-648-0532;bcaris@greenvalleypecan.com;www.greenvalleypecan.com;Estados Unidos;Dried Fruits & Nuts
+613;USA-CANADA;Marco Reis;Accountant / CEO;USA Tax (Tax Preparation & Accounting Services);(954) 788-1818 / (786) 257-2743 | Fax: (954) 788-6765 / (786) 257-2744;usatax@usataxfl.com;www.usataxflorida.com;Estados Unidos;
+614;USA-CANADA;Janice Dees;Project Manager;U.S. Pecans (National Pecan Growers' Council, Inc.);229-382-2187;Janice@georgiapecan.org;www.USpecans.org;Estados Unidos;Dried Fruits & Nuts
+615;USA-CANADA;Nizar Ali;;World Deal Traders (WDT - Gateway to Global Distribution);US: +1 (832) 970-2021 | US: +1 (281) 272-6175;admin@worlddealtraders.com;www.worlddealtraders.com;Estados Unidos;Largest selection of FMCG for supermarkets across the world

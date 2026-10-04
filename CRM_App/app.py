@@ -219,8 +219,14 @@ with st.expander("Gerenciar registros (editar / inserir / excluir)"):
                     if dados_banco and "notes" in dados_banco:
                         dados_banco["subproduto"] = dados_banco.pop("notes")
                     st.session_state["dados_cliente_atual"] = dados_banco
+                    
+                    # NOVO: Força a atualização do estado dos inputs para o novo ID selecionado
+                    for c in campos:
+                        valor_novo = dados_banco.get(c) or ""
+                        st.session_state[f"edt_{c}"] = str(valor_novo)
                 
                 dados_atuais = st.session_state["dados_cliente_atual"]
+
                 
                 with st.form("form_editar"): 
                     valores_editados = {} 
@@ -230,12 +236,12 @@ with st.expander("Gerenciar registros (editar / inserir / excluir)"):
                         with col_edit1 if idx % 2 == 0 else col_edit2: 
                             rotulo = "Pasta / Categoria" if c == "pasta" else ("Subproduto" if c == "subproduto" else c.capitalize())
                             valor_inicial = dados_atuais.get(c) or ""
-                            
+
                             valores_editados[c] = st.text_input(
                                 rotulo, 
                                 value=str(valor_inicial), 
-                                key=f"edt_{c}"
-                            ) 
+                                key=f"edt_{c}"  # <--- O problema está aqui!
+                                ) 
                     
                     st.markdown("---")
                     arquivo_imagem_edt = st.file_uploader(
@@ -340,5 +346,5 @@ with st.expander("Gerenciar registros (editar / inserir / excluir)"):
 # "C:\Anaconda\envs\crm_env\Scripts\streamlit.exe" run "C:\Users\Luca Caruso\Desktop\Projetos\Case Ricex\RICEX_CRM_CARTOES\CRM_App\app.py"
 
 # conda activate crm_env
-# cd "C:\Users\Luca Caruso\Desktop\Projetos\Case Ricex\RICEX_CRM_CARTOES\CRM_App"
+# cd "C:\Users\Luca Caruso\Desktop\Projetos\Case Ricex\RICEX_CRM_CARTOES\CRM_App" 
 # streamlit run app.py
