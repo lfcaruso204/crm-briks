@@ -14,28 +14,26 @@ IMAGES_DIR = (BASE_DIR.parent / "imagens_unidas").resolve()
 EXCEL_PATH = IMAGES_DIR / "NovaTabela.xlsx"
 EXCEL_SHEET = "NovaTabela"
 
-DB_PATH = Path("crm_upd3.db")  # Procurando com UNDERLINE (_)
+DB_PATH = Path("crm.db")
 LOGO_PATH = IMAGES_DIR / "brikslogo1.png"
 
 TABLE_NAME = "clientes"
 
-# Mapa: nome da coluna no Excel -> nome da coluna no banco (sem acento,
-# minúsculo, compatível com SQL).
+# CORRIGIDO: Mapeamento atualizado conforme os novos cabeçalhos do seu Excel
 COLUMN_MAP = {
-    "ID": "id",
-    "Pasta": "pasta",
-    "Nome": "nome",
-    "Cargo": "cargo",
-    "Empresa": "empresa",
-    "Telefone": "telefone",
-    "Email": "email",
-    "Website": "website",
-    "País": "pais",
-    "Produtos": "produtos",
+    "id": "id",
+    "pasta": "pasta",
+    "nome": "nome",
+    "cargo": "cargo",
+    "empresa": "empresa",
+    "telefone": "telefone",
+    "email": "email",
+    "website": "website",
+    "pais": "pais",
+    "produtos": "produtos",
     "Imagem": "imagem",
     "Imagem_Reduzida_Link": "imagem_reduzida_link",
-    "Revisar": "revisar",
-    "Notes": "notes",
+    "subproduto": "notes",  # Mapeia a coluna 'subproduto' do Excel para a 'notes' usada no banco e no app.py
 }
 
 # Colunas de texto usadas na busca livre (campo de digitação).
@@ -43,3 +41,4 @@ SEARCH_COLUMNS = ["nome", "cargo", "empresa", "produtos", "notes", "email"]
 
 # Colunas usadas nos filtros de seleção (rótulos clicáveis).
 FILTER_COLUMNS = ["pasta", "empresa", "pais"]
+
