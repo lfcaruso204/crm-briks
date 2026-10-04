@@ -11,10 +11,10 @@ from pathlib import Path
 BASE_DIR = Path(__file__).resolve().parent
 IMAGES_DIR = (BASE_DIR.parent / "imagens_unidas").resolve()
 
-EXCEL_PATH = IMAGES_DIR / "export_updated_database.xlsx"
-EXCEL_SHEET = "export_updated_database"
+EXCEL_PATH = IMAGES_DIR / "NovaTabela.xlsx"
+EXCEL_SHEET = "NovaTabela"
 
-DB_PATH = Path("crm_upd3.db")
+DB_PATH = Path("crm_upd3.db")  # Procurando com UNDERLINE (_)
 LOGO_PATH = IMAGES_DIR / "brikslogo1.png"
 
 TABLE_NAME = "clientes"
